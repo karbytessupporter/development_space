@@ -16,7 +16,7 @@ The aforementioned set of three M_DISCs contains all of the digital files which 
 
 The aforementioned set of three M_DISCs contains all of the digital files which constitute the public karbytes-created website named Karbytes For Life Blog dot WordPress dot Com as that website is configured at 11:59PM Pacific Standard Time on 07_FEBRUARY_2024.
 
-The aforementioned set of three M_DISCs each contain exactly one folder (named either mdisc_karbytes_07_february_2024_disc_0 or elsemdisc_karbytes_07_february_2024_disc_1 or else mdisc_karbytes_07_february_2024_disc_2). 
+The aforementioned set of three M_DISCs each contain exactly one folder (named either mdisc_karbytes_07_february_2024_disc_0 or else mdisc_karbytes_07_february_2024_disc_1 or else mdisc_karbytes_07_february_2024_disc_2). 
 
 Each one of the three aforementioned folders contains exclusively zip files (and each one of those zip files has a unique file name and unique data contents in relation to every other zip file inside of the aforementioned three folders).
 
