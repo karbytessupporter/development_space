@@ -20,9 +20,11 @@ To be clear, the (post 16_FEBFUARY_2024) M_DISC backups of karbytes_23february20
 
 	- west-facing wall of karbytes' room (for easy reference): 1 * M_DISC.karbytes_23february2024_core, 1 * M_DISC.karbytes_23february2024_journals.
 
-	- "most essential" karbytes backups metal safe (for security):  2 * M_DISC.karbytes_23february2024_core, 2 * M_DISC.karbytes_23february2024_journals.
+	- "most essential" karbytes backups metal safe binder (for security):  1 * M_DISC.karbytes_23february2024_core, 1 * M_DISC.karbytes_23february2024_journals.
 
-	- "preliminary" karbytes backups microwave oven (for security):  1 * M_DISC.karbytes_23february2024_core, 1 * M_DISC.karbytes_23february2024_journals.
+	- "most essential" karbytes backups metal safe compact disc case (for security):  1 * M_DISC.karbytes_23february2024_core, 1 * M_DISC.karbytes_23february2024_journals.
+
+	- "preliminary" karbytes backups microwave oven compact disc case (for security):  1 * M_DISC.karbytes_23february2024_core, 1 * M_DISC.karbytes_23february2024_journals.
 
 For details on which files explicitly constitute karbytes_23february2024_core and karbytes_23february2024_journals, see the web page whose address is the following Uniform Resource Locator:
 
