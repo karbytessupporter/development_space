@@ -1,0 +1,241 @@
+/**
+ * file: karbytes_26_february_2024.txt
+ * type: plain-text
+ * date: 29_FEBRUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Note that the following four paragraphs may or may not be relevant as of 2:05PM Pacific Standard Time on 26_FEBRUARY_2024:
+
+I do not plan on making any updates to my personal websites (which are entirely public and solely created and owned by karbytes) named "Karlina Object dot WordPress dot Com" and "Karbytes For Life Blog dot WordPress dot Com" nor to my Twitter dot Com page (with username @karbytes) nor to my Minds dot Com page (with username @karbytes) nor to my LinkedIn dot Com page (whose address is https://www.linkedin.com/in/kar-beringer-0a6684187/) nor to my Patreon dot Com page (whose address is https://www.patreon.com/karbytes) nor to any public GitHub dot Com repositories created and owned exclusively by either the GitHub dot Com account associated with the username @karlinarayberinger or else the username @karbytessupporter until after I burn at least two M_DISC copies of karbytes_23february2024_core and karbytes23february2024_journals and stow them in my Public Storage unit according to the conventions specified on the web page whose address is https://karbytesforlifeblog.wordpress.com/karbytes_physical_inventory_for_23february2024/.
+
+I expect those M_DISCs to be burned no later than 20_APRIL_2024. Until those M_DISCs are burned, I plan on continuing to make updates to my private GitHub dot Com repositories under the aforementioned GitHub usernames (including the drafting of the next chapter of the aforementioned public karbytes-created website named "Karbytes For Life Blog dot WordPress dot Com").
+
+I tentatively plan on naming that new chapter "raw_github_files_directory_KARLINA_OBJECT_extension_pack_9" and not releasing it until that chapter is in its final draft form. 
+
+Alternatively, I might decide instead to publish that new chapter of my website even while it is not yet in final draft form in order to use that chapter as a public record of weekly check-ins even if they are each little more than a single time-stamped line of text added to a plain-text file which uses something similar or identical to the following template: "karbytes is alive and adding this line to this file at 3:00AM Pacific Standard Time on 23_APRIL_2024." I tentatively plan on naming that plain-text file "karbytes_weekly_checkins.txt".
+
+(Note that karbytes has already established a rule of updating the timestamps on the home page of the website named "Karbytes For Life Blog dot WordPress dot Com" only when any source code file which comprises any web page of that website has been updated. What that means is that karbytes will not update any of those time stamps if karbytes only updates the aforementioned file (which is hosted on GitHub dot Com instead of WordPress dot Com) named "karbytes_weekly_checkins.txt").
+
+* * *
+
+I noticed at least one error in at least one of the files which is part of the previous chapter of the aforementioned public karbytes-created website named "Karbytes For Life Blog dot WordPress dot Com" (and that previous chapter is named "raw_github_files_directory_KARLINA_OBJECT_extension_pack_8" and the file in which I detected an error is the web page named of that website named "karbytes_12_february_2024" (and the error I noticed was that the date in the preformatted text box of that web page is "06_FEBRUARY_2024" instead of "12_FEBRUARY_2024")). 
+
+I decided not to make any changes to any files which are part of the aforementioned (and entirely public (and public domain) karbytes-created websites named "Karlina Object dot WordPress dot Com" and "Karbytes For Life Blog dot WordPress dot Com" which were published before 2:05PM Pacific Standard Time on 26_FEBRUARY_2024 because such files are considered by karbytes to be in their final draft form as of 2:05PM Pacific Standard Time on 26_FEBRUARY_2024.
+
+What I decided to do as of 2:05PM Pacific Standard Time on 26_FEBRUARY_2024 is add "raw_github_files_directory_KARLINA_OBJECT_extension_pack_9" to the aforementioned website named "Karbytes For Life Blog dot WordPress dot Com" and to share this note as a rich-text social media post on the aforementioned social media profiles so that my real or imagined audience (i.e. what I idealize and hope is the general public with no person excluded from being able to view any of the files which are part of the aforementioned karbytes-created websites named "Karlina Object dot WordPress dot Com" and "Karbytes For Life Blog dot WordPress dot Com") can see that I now have a new system for letting members of that audience know that I am alive and not too incapacitated or oppressed to continue being the sole proprietor of those websites and the aforementioned social media and GitHub accounts no less frequently than once per week (and I have decided to make Monday the day of each week I add a new line to the file named "karbytes_weekly_checkins.txt").
+
+What I am doing differently with my websites as of 2:05PM Pacific Standard Time on 26_FEBRUARY_2024 is to be more restrictive than I used to be about sharing details about my personal life (including drama related to my self-paced academics, employment/economic situation, interpersonal relationships, and political activism). That way, I can keep my stress to a minimum and not burden people other than myself unnecessarily with details which I really do not think are very useful nor interesting to share with the general public. That means that I might not have much I feel is necessary to share with the general public other than bland weekly updates that I am still alive and in control of my Internet-based empire.
+
+(To be clear, I have not yet made any M_DISC copies of the aforementioned data collections named karbytes_23february2024_core and karbytes_23february2024_journals because the three sets of blank M_DISCs which I ordered from Amazon dot Com have not yet been delivered to my designated pickup location and are not scheduled to be delivered to that location for what looks like at least one more week (and each of those two data collections does not contain any files which were modified or created after the point in the space-time continuum which I inhabit labeled 2:05PM Pacific Standard Time on 26_FEBRUARY_2024)).
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+UPDATE!!!
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Update: Because this note is so instrumental in succinctly describing karbytes' content management policies, procedures, and expected circumstances, karbytes decided to include all content which was published in the aforementioned chapter named "KARLINA_OBJECT_extension_pack_9" before 11:00PM Pacific Standard Time on 26_FEBRUARY_2024 in the karbytes data collection which was formerly named karbytes_23february2024_core (and which is now named karbytes_26february2024_core) in the next set of M_DISCs which karbytes plans on burning before 20_APRIL_2024. Also, karbytes is adding a zip file containing all the files which are in the private (and now archived (i.e. read-only)) karbytes-created GitHub repository named karbytes_basement_6 as those files are before 11:00PM Pacific Standard Time on 26_FEBRUARY_2024 in the karbytes data collection which was formerly named karbytes_23february2024_journals (and which is now named karbytes_26february2024_journals). The updated data sizes for those two data collections are as follows:
+
+(FINAL_UPDATE: This paragraph was added to this web page between 11:00PM Pacific Standard Time on 28_FEBRUARY_2024 and 8:00AM Pacific Standard Time on 29_FEBRUARY_2024. This paragraph is the only paragraph on this web page which was not added to this web page between 11:00AM Pacific Standard Time on 26_FEBRUARY_2024 and 11:00PM Pacific Standard Time on 26_FEBRUARY_2024. karbytes added this paragraph to this web page after karbytes added the image file named "chatgpt_and_karbytes_discuss_marijuana_smoking_and_free_will_28_february_2024.png" to the (aforementioned) "micro directory" website section named "raw_github_files_directory_KARLINA_OBJECT_extension_pack_9" of the "macro directory" website section named "RAW_GITHUB_FILES_MACRO_DIRECTORY" of the (entirely public (and public domain)) karbytes-created website named "Karbytes For Life Blog dot WordPress dot Com" and after karbytes noticed that karbytes failed to mention in this web page (between 11:00AM Pacific Standard Time on 26_FEBRUARY_2024 and 11:00PM Pacific Standard Time on 26_FEBRUARY_2024) that the most up-to-date version of the "micro directory" (of the aforementioned website section named "RAW_GITHUB_FILES_MACRO_DIRECTORY" of the aforementioned website named "Karbytes For Life Blog dot WordPress dot Com") named "raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG" is scheduled to have all of its constituent source code files and media files which are hosted in that "micro directory's" corresponding (public (and public domain) karbytes-created) GitHub repository downloaded as one zip file and added to the karbytes data collection (which is scheduled to be burned to an M_DISC before 11:59PM Pacific Standard Time on 20_APRIL_2024) named karbytes_29february2024_core (and that data collection was formerly named karbytes_26february2024_core (and the data collection named karbytes_29february2024_journals was formerly named karbytes_26february2024_journals)). The (zip) files which are part of the aforementioned data collections named karbytes_29february2024_core and karbytes_29february2024_journals have been updated in terms of data size and content and are current as of 8:00AM Pacific Standard Time on 29_FEBRUARY_2024. Details which are displayed on this web page about each of those zip files are also current as of 8:00AM Pacific Standard Time on 29_FEBRUARY_2024. Finally, exactly two zip file hyperlinks which are enumerated in the list below refer to zip files whose corresponding "micro directory" web pages and GitHub repositories are expected by karbytes to be updated after 8:00AM Pacific Standard Time on 29_FEBRUARY_2024 (and those zip files are named "KARBYTES_FOR_LIFE_BLOG-main_29february2024.zip" and "KARLINA_OBJECT_extension_pack_9-main_29february2024.zip"). All of the other zip files which are referenced by those hyperlinks have corresponding "micro directory" web pages and GitHub repositories which have been declared "read only" (as of 8:00AM Pacific Standard Time on 29_FEBRUARY_2024) by karbytes (and karbytes archived each of those zip file's corresponding GitHub repositories (which means that those GitHub repositories are "read only" (as of 8:00AM Pacific Standard Time on 29_FEBRUARY_2024) instead of open to further edits))).
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+M_DISC 1 of 2 (contains data collection named karbytes_29february2024_core)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes_26february2024_core: // 22 files (1.8 gigabytes total).
+
+	- karbytes_23AndMe_Ancestry_Data-main.zip // 6.5 megabytes
+
+	- KARBYTES_FOR_LIFE_BLOG-main_29february2024.zip // 595.7 kilobytes
+
+	- KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
+
+	- KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
+
+	- KARLINA_OBJECT_extension_pack_0-main.zip // 90.1 megabytes
+
+	- KARLINA_OBJECT_extension_pack_1-main.zip // 38.8 megabytes
+
+	- KARLINA_OBJECT_extension_pack_2-main.zip // 124.3 megabytes
+
+	- KARLINA_OBJECT_extension_pack_3-main.zip // 363.5 megabytes
+
+	- KARLINA_OBJECT_extension_pack_4-main.zip // 332.3 megabytes
+
+	- KARLINA_OBJECT_extension_pack_5-main.zip // 208.2 megabytes
+
+	- KARLINA_OBJECT_extension_pack_6-main.zip // 24.0 megabytes
+
+	- KARLINA_OBJECT_extension_pack_7-main.zip // 41.9 megabytes
+
+	- KARLINA_OBJECT_extension_pack_8-main.zip // 99.7 megabytes
+
+	- KARLINA_OBJECT_extension_pack_9-main_29february2024.zip // 2.1 megabytes
+
+	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
+
+	- KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 116.3 megabytes
+
+	- PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 468.1 kilobytes
+
+	- PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip // 15.3 megabytes
+
+	- PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip // 14.3 megabytes
+
+	- KARLINA_OBJECT-main.zip // 116.3 megabytes
+
+	- MINDS_2020_SCREENSHOTS-main.zip // 123.5 megabytes
+
+	- RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 276.4 kilobytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+M_DISC 2 of 2 (contains data collection named karbytes_29february2024_journals)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes_26february2024_journals: // 67 files (3.7 gigabytes total).
+
+	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip // 166.6 megabytes
+
+	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip // 211.7 megabytes
+
+	- karbytes_basement_0-main.zip // 149.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_1-main.zip // 164.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_2-main.zip // 65.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_3-main.zip // 2.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_4-main.zip // 24.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_5-main.zip // 6.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_6-main.zip // 1.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- KARBYTES_BRAND_IMAGES_2021-main.zip // 9.8 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_0-main.zip // 31.0 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_1-main.zip // 18.8 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_2-main.zip // 7.2 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_3-main.zip // 17.9 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_4-main.zip // 55.5 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_5-main.zip // 23.9 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_6-main.zip // 56.2 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_7-main.zip // 108.3 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_8-main.zip // 69.3 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_9-main.zip // 56.0 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_10-main.zip // 12.9 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_11-main.zip // 48.5 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_12-main.zip // 37.4 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_13-main.zip // 33.3 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_14-main.zip // 53.4 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_15-main.zip // 62.0 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_16-main.zip // 127.5 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_16B-main.zip // 153.2 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_16C-main.zip // 198.6 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_16D-main.zip // 215.5 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_0-main.zip // 41.2 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_1-main.zip // 82.8 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_2-main.zip // 51.7 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_3-main.zip // 56.5 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_4-main.zip // 12.8 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_5-main.zip // 24.6 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_6-main.zip // 28.4 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_7-main.zip // 16.8 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_8-main.zip // 5.7 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_9-main.zip // 67.1 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_10-main.zip // 14.2 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_11-main.zip // 25.0 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_12-main.zip // 89.0 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_13-main.zip // 122.9 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_14-main.zip // 7.6 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_15-main.zip // 3.7 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_16-main.zip // 22.6 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.1 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_18-main.zip // 12.0 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_19-main.zip // 18.8 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_20-main.zip // 17.0 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_21-main.zip // 4.5 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_22-main.zip // 3.3 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_23-main.zip // 93.3 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_24-main.zip // 54.7 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_25-main.zip // 155.5 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_26-main.zip // 81.7 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_27-main.zip // 55.6 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_28-main.zip // 76.6 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_29-main.zip // 79.8 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_30-main.zip // 65.8 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_31-main.zip // 26.9 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_32-main.zip // 179.7 megabytes
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 1.9 megabytes
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.3 megabytes
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.3 megabytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+END_OF_FILE
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
