@@ -1,0 +1,235 @@
+/**
+ * file: karbytes_01_march_2024.txt
+ * type: plain-text
+ * date: 02_MARCH_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Today I picked up a set of three M_DISCs which I ordered from Amazon dot Com from an Amazon locker in downtown Castro Valley. Then I burned two of those three discs with the data collections described on the web page whose web address is as follows (and such that one of those discs has become a read-only long-term storage medium for exactly one data collection named "karbytes_29february2024_core" while the other one of those discs has become a read-only long-term storage medium for exactly one data collection named "karbytes_29february2024_journals"):
+
+https://karbytesforlifeblog.wordpress.com/karbytes_26_february_2024/
+
+The following video clips depict scenes from the aforementioned M_DISC burning procedure. After burning each of those two discs using a DVD disc drive connected to my Windows 11 laptop computer via USB cable, I tested each of those two burned discs by connecting that DVD drive to my Kubuntu laptop and copying the files on those discs to the Desktop directory of that Kubuntu laptop computer (and I opened those folders and peaked inside some of the zip files inside of those folders to verify that the contents were what I expected them to be). Finally, I took the set of three M_DISCs to my Public Storage unit and placed the blank unopened M_DISC in my microwave oven and put the two burned M_DISCs (inside of their original jewel cases with corresponding hand-written labels taped to the outside of those cases) inside of one of the two fireproof zipper-locking compact disc cases I ordered from Amazon dot Com approximately three weeks ago (after using scissors to cut out all of the compact disc sleeves inside of that compact disc case in order to make room for the M_DISCs inside of their original jewel cases in order to make those discs easier for me to identify and to protect them from scratches).
+
+(Edit: Whenever I used the term "jewel case" throughout the website named "Karbytes For Life Blog dot WordPress dot Com" to refer to the mostly cardboard with some clear plastic container which a new M_DISC comes inside of when it leaves the factory, I should have used a more accurate term such as "original M_DISC packaging". I later learned that the term "jewel case" refers to a container which is made entirely of plastic and used to store exactly one compact disc but which is shaped almost identically to the packaging which contains a single M_DISC (as depicted by the videos whose web addresses are enumerated below this paragraph)).
+
+(I plan on making a minimum of four M_DISC copies of the data collection named karbytes_29february2024_core and a minimum of four M_DISC copies of the data collection named karbytes_29february2024_journals before 11:59PM Pacific Standard Time on 20_APRIL_2024).
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_0.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_1.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_2.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_3.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_4_(last_video_clip_of_five).mp4
+
+(Edit: In the process of changing the last MP4 file web address in the list above from "karbytes_mdisc_burning_video_clip_01mar2024_part_4.mp4" to "karbytes_mdisc_burning_video_clip_01mar2024_part_4_(last_video_clip_of_five).mp4" (and while playing a particularly upbeat-sounding Megadeth song), my laptop suddenly started slowing down such that none of the application windows which were open were responding when I clicked on them even though the cursor was moving normally (and I also heard the music start to "pop" like how this laptop has within a few seconds of crashing after accidentally shaking the laptop too abruptly). I was updating that web address because the video file under the previous name was not being saved to the WayBack Machine (and I am apparently only allowed to save a raw GitHub-hosted MP4 file once per day to the WayBack Machine). The file with the old name has been deleted from the hosting GitHub repository to avoid data redundancy (as the file with the new name renders the same video as the file with the old name)).
+
+* * *
+
+(Edit: I noticed that, after I burned the discs described in this web page, the hypertext containing the asterisk enclosed in parentheses (i.e. "(*)") which is displayed immediately to the right of the hypertext leading to the source code (HTML) file of the web page which that asterisk enclosed in parentheses points to was colored orange instead of green (on the web page of this website named "raw_github_files_directory_KARLINA_OBJECT_extension_pack_9"). (Hypertext throughout this website and throughout the other public karbytes-created website named "Karlina Object dot WordPress dot Com" which is highlighted black with green (i.e. "#00ff00") text points to source code files (or to web pages which karbytes thinks the main content of is references to source code) while hypertext throughout those websites which are highlighted black with orange (i.e. "#ff9000") text point to media files (or to web pages which karbytes thinks the main content of is references to media files)). Hence, that asterisk enclosed in parentheses has been changed from orange to green. Also, the next set of M_DISCs which karbytes intends to burn will contain each zip file which is downloaded from each public and private GitHub repository which is hosted on karbytes' GitHub account (under the username @karlinarayberinger) which are current as of 11:00AM on 03_MAY_2024). The new M_DISCs will be configured as follows:
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+M_DISC 1 of 2 (disc contains exactly one folder named karbytes_03march2024_core)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes_03march2024_core: // folder contains exactly 22 files (1.9 gigabytes total).
+
+	- karbytes_23AndMe_Ancestry_Data-main.zip // 6.5 megabytes
+
+	- KARBYTES_FOR_LIFE_BLOG-main_03march2024.zip // 595.7 kilobytes
+
+	- KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
+
+	- KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
+
+	- KARLINA_OBJECT_extension_pack_0-main.zip // 90.1 megabytes
+
+	- KARLINA_OBJECT_extension_pack_1-main.zip // 38.8 megabytes
+
+	- KARLINA_OBJECT_extension_pack_2-main.zip // 124.3 megabytes
+
+	- KARLINA_OBJECT_extension_pack_3-main.zip // 363.5 megabytes
+
+	- KARLINA_OBJECT_extension_pack_4-main.zip // 332.3 megabytes
+
+	- KARLINA_OBJECT_extension_pack_5-main.zip // 208.2 megabytes
+
+	- KARLINA_OBJECT_extension_pack_6-main.zip // 24.0 megabytes
+
+	- KARLINA_OBJECT_extension_pack_7-main.zip // 41.9 megabytes
+
+	- KARLINA_OBJECT_extension_pack_8-main.zip // 99.7 megabytes
+
+	- KARLINA_OBJECT_extension_pack_9-main_03march2024.zip // 112.5 megabytes
+
+	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
+
+	- KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 116.3 megabytes
+
+	- PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 468.1 kilobytes
+
+	- PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip // 15.3 megabytes
+
+	- PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip // 14.3 megabytes
+
+	- KARLINA_OBJECT-main.zip // 116.3 megabytes
+
+	- MINDS_2020_SCREENSHOTS-main.zip // 123.5 megabytes
+
+	- RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 276.4 kilobytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+M_DISC 2 of 2 (disc contains exactly one folder named karbytes_03march2024_journals)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes_03march2024_journals: // folder contains exactly 68 files (3.7 gigabytes total).
+
+	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip // 166.6 megabytes
+
+	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip // 211.7 megabytes
+
+	- karbytes_basement_0-main.zip // 149.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_1-main.zip // 164.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_2-main.zip // 65.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_3-main.zip // 2.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_4-main.zip // 24.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_5-main.zip // 6.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_6-main.zip // 1.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- karbytes_basement_7-main.zip // 1.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+	- KARBYTES_BRAND_IMAGES_2021-main.zip // 9.8 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_0-main.zip // 31.0 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_1-main.zip // 18.8 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_2-main.zip // 7.2 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_3-main.zip // 17.9 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_4-main.zip // 55.5 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_5-main.zip // 23.9 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_6-main.zip // 56.2 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_7-main.zip // 108.3 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_8-main.zip // 69.3 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_9-main.zip // 56.0 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_10-main.zip // 12.9 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_11-main.zip // 48.5 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_12-main.zip // 37.4 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_13-main.zip // 33.3 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_14-main.zip // 53.4 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_15-main.zip // 62.0 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_16-main.zip // 127.5 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_16B-main.zip // 153.2 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_16C-main.zip // 198.6 megabytes
+
+	- KARBYTES_JOURNAL_2022_PART_16D-main.zip // 215.5 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_0-main.zip // 41.2 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_1-main.zip // 82.8 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_2-main.zip // 51.7 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_3-main.zip // 56.5 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_4-main.zip // 12.8 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_5-main.zip // 24.6 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_6-main.zip // 28.4 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_7-main.zip // 16.8 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_8-main.zip // 5.7 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_9-main.zip // 67.1 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_10-main.zip // 14.2 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_11-main.zip // 25.0 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_12-main.zip // 89.0 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_13-main.zip // 122.9 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_14-main.zip // 7.6 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_15-main.zip // 3.7 megabytes	
+
+	- KARBYTES_JOURNAL_2023_PART_16-main.zip // 22.6 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.1 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_18-main.zip // 12.0 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_19-main.zip // 18.8 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_20-main.zip // 17.0 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_21-main.zip // 4.5 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_22-main.zip // 3.3 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_23-main.zip // 93.3 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_24-main.zip // 54.7 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_25-main.zip // 155.5 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_26-main.zip // 81.7 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_27-main.zip // 55.6 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_28-main.zip // 76.6 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_29-main.zip // 79.8 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_30-main.zip // 65.8 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_31-main.zip // 26.9 megabytes
+
+	- KARBYTES_JOURNAL_2023_PART_32-main.zip // 179.7 megabytes
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 1.9 megabytes
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.3 megabytes
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.3 megabytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+END_OF_FILE
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
