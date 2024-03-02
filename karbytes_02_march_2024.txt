@@ -62,7 +62,7 @@ karbytes_03march2024_fortify: // folder contains exactly 30 files (2.3 gigabytes
 
 	- KARLINA_OBJECT_extension_pack_8-main.zip // 99.7 megabytes
 
-	- KARLINA_OBJECT_extension_pack_9-main_03march2024.zip // 112.5 megabytes
+	- KARLINA_OBJECT_extension_pack_9-main_03march2024.zip // 115.8 megabytes
 
 	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
 
