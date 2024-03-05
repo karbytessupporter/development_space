@@ -1,7 +1,7 @@
 /**
  * file: karbytes_02_march_2024.txt
  * type: plain-text
- * date: 03_MARCH_2024
+ * date: 04_MARCH_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -36,7 +36,7 @@ karbytes_05march2024_fortify: // folder contains exactly 30 files (2.3 gigabytes
 
 	- karbytes_basement_6-main.zip // 1.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-	- karbytes_basement_7-main.zip // 1.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+	- karbytes_basement_7-main.zip // 2.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 	- KARBYTES_FOR_LIFE_BLOG-main_05march2024.zip // 595.7 kilobytes
 
