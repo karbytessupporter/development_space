@@ -1,24 +1,24 @@
 /**
  * file: karbytes_02_march_2024.txt
  * type: plain-text
- * date: 04_MARCH_2024
+ * date: 05_MARCH_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-In order to make efficient use of the last remaining blank disc in the set of three M_DISCs which karbytes recently ordered from Amazon dot Com, karbytes plans on burning that disc with all of the zip files in the folder named karbytes_05march2024_core and each of the zip files which were downloaded from private GitHub repositories in the folder named karbytes_05march2024_journals before 11:59PM Pacific Standard Time on 20_APRIL_2024. 
+In order to make efficient use of the last remaining blank disc in the set of three M_DISCs which karbytes recently ordered from Amazon dot Com, karbytes plans on burning that disc with all of the zip files in the folder named karbytes_08march2024_core and each of the zip files which were downloaded from private GitHub repositories in the folder named karbytes_08march2024_journals before 11:59PM Pacific Standard Time on 20_APRIL_2024.
 
-Each of the zip files which karbytes intends to burn to a single M_DISC will be placed in a folder named karbytes_05march2024_fortify. 
+Each of the zip files which karbytes intends to burn to that single M_DISC will be placed in a folder named karbytes_08march2024_fortify. 
 
-(Note that any zip files whose file names contain the string "_05march2024" were downloaded from karbytes-created GitHub repositories which karbytes assumes that karbytes will update after 11:59PM Pacific Standard Time on 05_MARCH_2024).
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-M_DISC 1 of 1 (disc contains exactly one folder named karbytes_05march2024_fortify)
+(Note that any zip files whose file names contain the string "_08march2024" were downloaded from karbytes-created GitHub repositories which karbytes assumes that karbytes will update after 11:59PM Pacific Standard Time on 08_MARCH_2024).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_05march2024_fortify: // folder contains exactly 30 files (2.3 gigabytes total).
+M_DISC 1 of 1 (disc contains exactly one folder named karbytes_08march2024_fortify)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes_08march2024_fortify: // folder contains exactly 30 files (2.3 gigabytes total).
 
 	- karbytes_23AndMe_Ancestry_Data-main.zip // 6.5 megabytes
 
@@ -38,7 +38,7 @@ karbytes_05march2024_fortify: // folder contains exactly 30 files (2.3 gigabytes
 
 	- karbytes_basement_7-main.zip // 2.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-	- KARBYTES_FOR_LIFE_BLOG-main_05march2024.zip // 595.7 kilobytes
+	- KARBYTES_FOR_LIFE_BLOG-main_08march2024.zip // 595.7 kilobytes
 
 	- KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
 
@@ -62,7 +62,7 @@ karbytes_05march2024_fortify: // folder contains exactly 30 files (2.3 gigabytes
 
 	- KARLINA_OBJECT_extension_pack_8-main.zip // 99.7 megabytes
 
-	- KARLINA_OBJECT_extension_pack_9-main_05march2024.zip // 115.8 megabytes
+	- KARLINA_OBJECT_extension_pack_9-main_08march2024.zip // 115.8 megabytes
 
 	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
 
