@@ -1,7 +1,7 @@
 /**
  * file: karbytes_02_march_2024.txt
  * type: plain-text
- * date: 05_MARCH_2024
+ * date: 06_MARCH_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -36,9 +36,9 @@ karbytes_08march2024_fortify: // folder contains exactly 30 files (2.3 gigabytes
 
 	- karbytes_basement_6-main.zip // 1.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-	- karbytes_basement_7-main.zip // 2.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+	- karbytes_basement_7-main.zip // 2.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-	- KARBYTES_FOR_LIFE_BLOG-main_08march2024.zip // 595.7 kilobytes
+	- KARBYTES_FOR_LIFE_BLOG-main_08march2024.zip // 596.9 kilobytes
 
 	- KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
 
@@ -62,7 +62,7 @@ karbytes_08march2024_fortify: // folder contains exactly 30 files (2.3 gigabytes
 
 	- KARLINA_OBJECT_extension_pack_8-main.zip // 99.7 megabytes
 
-	- KARLINA_OBJECT_extension_pack_9-main_08march2024.zip // 115.8 megabytes
+	- KARLINA_OBJECT_extension_pack_9-main_08march2024.zip // 117.4 megabytes
 
 	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
 
@@ -79,7 +79,6 @@ karbytes_08march2024_fortify: // folder contains exactly 30 files (2.3 gigabytes
 	- MINDS_2020_SCREENSHOTS-main.zip // 123.5 megabytes
 
 	- RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 276.4 kilobytes
-
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
