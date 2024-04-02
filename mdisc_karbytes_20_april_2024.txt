@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_20_april_2024.txt
  * type: plain-text
- * date: 01_APRIL_2024
+ * date: 02_APRIL_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -46,7 +46,7 @@ karbytes_20april2024_core: // folder contains exactly 32 files (2.7 gigabytes to
 
 	- karbytes_basement_8-main.zip // 10.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-	- KARBYTES_FOR_LIFE_BLOG-main_20april2024.zip // 600.4 kilobytes
+	- KARBYTES_FOR_LIFE_BLOG-main_20april2024.zip // 600.0 kilobytes
 
 	- KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
 
