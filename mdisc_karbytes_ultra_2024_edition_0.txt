@@ -18,11 +18,11 @@ Each zip file which is enumerated on this web page has exactly one uniquely corr
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-M_DISC 1 of 2 (disc contains exactly one folder named karbytes_ultra_2024_edition_0)
+M_DISC 1 of 2 (disc contains exactly one folder named karbytes_ultra_2024_edition_0_core)
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_0: // folder contains exactly 32 files (2.7 gigabytes total).
+karbytes_ultra_2024_edition_0_core: // folder contains exactly 32 files (2.7 gigabytes total).
 
 	- INSTAGRAM_KARBYTES_2024-main.zip // 317.3 megabytes
 
