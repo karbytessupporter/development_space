@@ -22,7 +22,7 @@ M_DISC 1 of 2 (disc contains exactly one folder named karbytes_ultra_2024_editio
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_1_core: // folder contains exactly 33 files (3.0 gigabytes total).
+karbytes_ultra_2024_edition_1_core: // folder contains exactly 33 files (3.3 gigabytes total).
 
 	- INSTAGRAM_KARBYTES_2024-main.zip // 317.3 megabytes
 
@@ -96,7 +96,7 @@ M_DISC 2 of 2 (disc contains exactly one folder named karbytes_20march2024_journ
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_20march2024_journals: // folder contains exactly 69 files (3.7 gigabytes total).
+karbytes_20march2024_journals: // folder contains exactly 69 files (4.0 gigabytes total).
 
 	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip // 166.6 megabytes
 
