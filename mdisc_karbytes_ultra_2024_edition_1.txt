@@ -1,18 +1,18 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_1.txt
  * type: plain-text
- * date: 14_APRIL_2024
+ * date: 15_APRIL_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 14_APRIL_2024. 
+The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 16_APRIL_2024. 
 
 Throughout all of karbytes lifetime, karbytes intends to create at least two M_DISC copies of the M_DISC whose contents are referred to on this web page as karbytes_ultra_2024_edition_1_core (and at least four of such copies if and only if karbytes_ultra_2024_edition_1_core is the most up-to-date and/or most significant to karbytes component of the collection of digital files referred to by karbytes as karbytes (according to the web page named ABOUT_KARBYTES on the website named Karbytes For Life Blog dot WordPress dot Com) throughout all of karbytes' lifetime).
 
 Throughout all of karbytes' lifetime, karbytes intends to create at least four M_DISC copies of the M_DISC whose contents are referred to on this web page as karbytes_20march2024_journals.
 
-Each zip file which is enumerated on this web page and whose file name contains the string "_14april2024" (quotation characters not included) was downloaded from exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on 14_APRIL_2024. 
+Each zip file which is enumerated on this web page and whose file name contains the string "_16april2024" (quotation characters not included) was downloaded from exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on 16_APRIL_2024. 
 
 Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created GitHub repository (which is associated with the GitHub username @karlinarayberinger). There also exists exactly one uniquely corresponding "micro directory" web page for each of the aforementioned public (but not private) zip files on the one and only "macro directory" web page of the website named Karbytes For Life Blog dot WordPress dot Com).
 
@@ -22,7 +22,7 @@ M_DISC 1 of 2 (disc contains exactly one folder named karbytes_ultra_2024_editio
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_1_core: // folder contains exactly 33 files (3.3 gigabytes total).
+karbytes_ultra_2024_edition_1_core: // folder contains exactly 33 files (3.0 gigabytes total).
 
 	- INSTAGRAM_KARBYTES_2024-main.zip // 317.3 megabytes
 
@@ -46,7 +46,7 @@ karbytes_ultra_2024_edition_1_core: // folder contains exactly 33 files (3.3 gig
 
 	- karbytes_basement_8-main.zip // 10.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-	- KARBYTES_FOR_LIFE_BLOG-main_14april2024.zip // 603.4 kilobytes
+	- KARBYTES_FOR_LIFE_BLOG-main_16april2024.zip // 603.4 kilobytes
 
 	- KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
 
@@ -72,7 +72,7 @@ karbytes_ultra_2024_edition_1_core: // folder contains exactly 33 files (3.3 gig
 
 	- KARLINA_OBJECT_extension_pack_9-main.zip // 226.4 megabytes
 
-	- KARLINA_OBJECT_extension_pack_10-main.zip // 258.2 megabytes
+	- KARLINA_OBJECT_extension_pack_10-main.zip // 257.7 megabytes
 
 	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
 
@@ -96,7 +96,7 @@ M_DISC 2 of 2 (disc contains exactly one folder named karbytes_20march2024_journ
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_20march2024_journals: // folder contains exactly 69 files (4.0 gigabytes total).
+karbytes_20march2024_journals: // folder contains exactly 69 files (3.7 gigabytes total).
 
 	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip // 166.6 megabytes
 
