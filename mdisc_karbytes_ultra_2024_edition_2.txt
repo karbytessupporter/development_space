@@ -24,7 +24,7 @@ M_DISC 1 of 3 (disc contains exactly one folder named karbytes_ultra_2024_editio
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_2_core: // folder contains exactly 2 files (4.0 megabytes total).
+karbytes_ultra_2024_edition_2_core: // folder contains exactly 2 files (4.2 megabytes total).
 
 	- KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 603.4 kilobytes
 
