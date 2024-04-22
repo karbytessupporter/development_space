@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_2.txt
  * type: plain-text
- * date: 21_APRIL_2024
+ * date: 22_APRIL_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -24,11 +24,11 @@ M_DISC 1 of 3 (disc contains exactly one folder named karbytes_ultra_2024_editio
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_2_core: // folder contains exactly 2 files (4.2 megabytes total).
+karbytes_ultra_2024_edition_2_core: // folder contains exactly 2 files (6.5 megabytes total).
 
 	- KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 603.4 kilobytes
 
-	- KARLINA_OBJECT_extension_pack_11-main.zip // 3.6 megabytes
+	- KARLINA_OBJECT_extension_pack_11-main.zip // 5.9 megabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
