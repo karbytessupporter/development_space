@@ -24,13 +24,13 @@ M_DISC 1 of 3 (disc contains exactly one folder named karbytes_ultra_2024_editio
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_2_core: // folder contains exactly 3 files (123.4 megabytes total).
+karbytes_ultra_2024_edition_2_core: // folder contains exactly 3 files (125.1 megabytes total).
 
 	- KARBYTES_FOR_LIFE_BLOG-main_30april2024.zip // 603.4 kilobytes
 
 	- KARLINA_OBJECT-main.zip // 116.3 megabytes
 
-	- KARLINA_OBJECT_extension_pack_11-main.zip // 6.5 megabytes
+	- KARLINA_OBJECT_extension_pack_11-main.zip // 8.2 megabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
