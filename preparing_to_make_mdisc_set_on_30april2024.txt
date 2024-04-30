@@ -1,0 +1,22 @@
+/**
+ * file: preparing_to_make_mdisc_set_on_30april2024.txt
+ * type: plain-text
+ * date: 30_APRIL_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+karbytes is in the process of burning three M_DISCs which each have the same data contents burned to them. 
+
+Those data contents consist exclusively of the zip files inside of the folder named karbytes_ultra_2024_edition_3_core and the folder named karbytes_ultra_2024_edition_3_setup.
+
+The zip file contents of each of the two aforementioned folders are referenced alongside respective data file sizes on the web page at the following Uniform Resource Locator on the World Wide Web:
+
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_edition_3/
+
+A single unwritten M_DISC has a data storage capacity of approximately 4.7 gigabytes. Hence the aforementioned two folders can both fit on one of those discs.
+
+Sincerely,
+karbytes
