@@ -1,12 +1,12 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_3.txt
  * type: plain-text
- * date: 01_MAY_2024
+ * date: 04_MAY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 03_MAY_2024. 
+The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 04_MAY_2024. 
 
 Throughout all of karbytes' lifetime, karbytes intends to create at least four M_DISC copies of the M_DISC whose contents are referred to on this web page as karbytes_ultra_2024_edition_3_core.
 
@@ -14,7 +14,7 @@ Throughout all of karbytes' lifetime, karbytes intends to create at least four M
 
 Throughout all of karbytes' lifetime, karbytes intends to create at least four M_DISC copies of the M_DISC whose contents are referred to on this web page as karbytes_20march2024_journals.
 
-Each zip file which is enumerated on this web page and whose file name contains the string "_03may2024" (quotation characters not included) was downloaded from exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on 03_MAY_2024. 
+Each zip file which is enumerated on this web page and whose file name contains the string "_04may2024" (quotation characters not included) was downloaded from exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on 04_MAY_2024. 
 
 Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created GitHub repository (which is associated with the GitHub username @karlinarayberinger). There also exists exactly one uniquely corresponding "micro directory" web page for each of the aforementioned public (but not private) zip files on the one and only "macro directory" web page of the website named Karbytes For Life Blog dot WordPress dot Com).
 
@@ -26,7 +26,7 @@ M_DISC 1 of 3 (disc contains exactly one folder named karbytes_ultra_2024_editio
 
 karbytes_ultra_2024_edition_3_core: // folder contains exactly 4 files (157.8 megabytes total).
 
-	- KARBYTES_FOR_LIFE_BLOG-main_03may2024.zip // 603.4 kilobytes
+	- KARBYTES_FOR_LIFE_BLOG-main_04may2024.zip // 603.4 kilobytes
 
 	- KARLINA_OBJECT-main.zip // 116.3 megabytes
 
