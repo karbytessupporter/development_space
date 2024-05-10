@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_4.txt
  * type: plain-text
- * date: 09_MAY_2024
+ * date: 10_MAY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -74,7 +74,7 @@ karbytes_ultra_2024_edition_4_setup: // folder contains exactly 33 files (3.0 gi
 
 	- karbytes_basement_9-main.zip // 34.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-	- karbytes_basement_10-main.zip // 13.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+	- karbytes_basement_10-main.zip // 16.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 	- KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
 
