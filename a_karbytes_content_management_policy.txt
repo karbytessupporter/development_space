@@ -1,0 +1,15 @@
+/**
+ * file: a_karbytes_content_management_policy.txt
+ * type: plain-text
+ * date: 15_MAY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Any (zip) files which are part of the collection of public domain and public web hosted digital files named karbytes (as described on the web page at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/about_karbytes/) which have already been burned to a set of M_DISCs by karbytes (i.e. the author of this plain-text file) are deemed by karbytes (i.e. the author of this plain-text file) to be in their final draft form.
+
+In other words, all files which are part of the public domain intellectual property collection named karbytes which have already been burned to "long term storage" read-only optical discs by the author of that intellectual property are considered by that author to be historical artifacts intended by karbytes to remain immutable forever after those files were burned to those discs.
+
+* * *
+
+Context: this file was written in response to karbytes discovering that there were some errors in files which are part of karbytes "micro directories" (as described on the web page at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/) whose uniquely corresponding GitHub repository zip files have been downloaded and burned onto M_DISCs (as described on the web page at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_edition_5/).
