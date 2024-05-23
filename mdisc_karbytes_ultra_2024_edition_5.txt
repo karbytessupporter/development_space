@@ -78,7 +78,7 @@ karbytes_ultra_2024_edition_5_setup: // folder contains exactly 34 files (3.1 gi
 
 	- karbytes_basement_10-main.zip // 16.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-	- karbytes_basement_11-main.zip // 19.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+	- karbytes_basement_11-main.zip // 26.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 	- KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
 
