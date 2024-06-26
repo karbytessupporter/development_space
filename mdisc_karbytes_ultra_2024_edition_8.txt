@@ -24,11 +24,11 @@ M_DISC 3 of 3 (disc contains exactly one folder named karbytes_ultra_2024_editio
 
 M_DISC 3 of 3 data collection name: karbytes_ultra_2024_edition_8
 
-M_DISC 3 of 3 data collection size: 1.4 gigabytes
+M_DISC 3 of 3 data collection size: 1.6 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_8: // folder contains exactly 11 files (1.4 gigabytes total).
+karbytes_ultra_2024_edition_8: // folder contains exactly 11 files (1552.5 megabytes total).
 
 	- KARBYTES_FOR_LIFE_BLOG-main_25june2024.zip // 601.3 kilobytes
 
@@ -44,7 +44,7 @@ karbytes_ultra_2024_edition_8: // folder contains exactly 11 files (1.4 gigabyte
 
 	- KARLINA_OBJECT_extension_pack_15-main.zip // 40.3 megabytes
 
-	- KARLINA_OBJECT_extension_pack_16.zip // 986.4 megabytes
+	- KARLINA_OBJECT_extension_pack_16.zip // 1083.9 megabytes
 
 	- KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
@@ -58,7 +58,7 @@ M_DISC 2 of 3 (disc contains exactly two folders named karbytes_ultra_2024_editi
 
 M_DISC 2 of 3 data collection name: karbytes_ultra_2024_edition_7
 
-M_DISC 2 of 3 data collection size: 4.0 gigabytes
+M_DISC 2 of 3 data collection size: 4.3 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -88,7 +88,7 @@ karbytes_ultra_2024_edition_7_core: // folder contains exactly 11 files (611.8 m
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_7_setup: // folder contains exactly 37 files (3.4 gigabytes total).
+karbytes_ultra_2024_edition_7_setup: // folder contains exactly 37 files (3609.0 megabytes total).
 
 	- INSTAGRAM_KARBYTES_2024-main.zip // 317.3 megabytes
 
@@ -170,11 +170,11 @@ M_DISC 1 of 3 (disc contains exactly one folder named karbytes_20march2024_journ
 
 M_DISC 1 of 3 data collection name: karbytes_20march2024_journals
 
-M_DISC 1 of 3 data collection size: 1.4 gigabytes
+M_DISC 1 of 3 data collection size: 4.0 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_20march2024_journals: // folder contains exactly 69 files (1.4 gigabytes total).
+karbytes_20march2024_journals: // folder contains exactly 69 files (3942.7 megabytes total).
 
 	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip // 166.6 megabytes
 
