@@ -24,7 +24,7 @@ M_DISC 3 of 3 (disc contains exactly one folder named karbytes_ultra_2024_editio
 
 M_DISC 3 of 3 data collection name: karbytes_ultra_2024_edition_11
 
-M_DISC 3 of 3 data collection size: 2.5 gigabytes
+M_DISC 3 of 3 data collection size: 2.6 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
