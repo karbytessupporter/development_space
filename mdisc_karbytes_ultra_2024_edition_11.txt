@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_11.txt
  * type: plain-text
- * date: 29_JULY_2024
+ * date: 31_JULY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -28,7 +28,7 @@ M_DISC 3 of 3 data collection size: 2.5 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_11: // folder contains exactly 14 files (2433.0 megabytes total).
+karbytes_ultra_2024_edition_11: // folder contains exactly 14 files (2456.3 megabytes total).
 
     - KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 601.3 kilobytes
 
@@ -48,7 +48,7 @@ karbytes_ultra_2024_edition_11: // folder contains exactly 14 files (2433.0 mega
 
     - KARLINA_OBJECT_extension_pack_17-main.zip // 725.0 megabytes
 
-    - KARLINA_OBJECT_extension_pack_18-main_[undefined_day].zip // 107.4 megabytes
+    - KARLINA_OBJECT_extension_pack_18-main_[undefined_day].zip // 129.7 megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
