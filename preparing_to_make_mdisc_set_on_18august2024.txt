@@ -16,7 +16,7 @@ The zip file contents of the aforementioned folder are referenced alongside resp
 
 https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_edition_12/
 
-A single unwritten M_DISC has a data storage capacity of approximately 4.7 gigabytes. Hence the aforementioned folder can fit on one of those discs (because approximately 2.8 gigabytes of read-only data will be burned to each one of the three discs).
+A single unwritten M_DISC has a data storage capacity of approximately 4.7 gigabytes. Hence the aforementioned folder can fit on one of those discs (because approximately 2.9 gigabytes of read-only data will be burned to each one of the three discs).
 
 Sincerely,
 karbytes
