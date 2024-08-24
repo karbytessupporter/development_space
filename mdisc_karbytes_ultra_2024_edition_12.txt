@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_12.txt
  * type: plain-text
- * date: 21_AUGUST_2024
+ * date: 24_AUGUST_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -18,17 +18,19 @@ Each zip file which is enumerated on this web page and whose file name contains 
 
 Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created GitHub repository (which is associated with the GitHub username @karlinarayberinger). There also exists exactly one uniquely corresponding "micro directory" web page for each of the aforementioned public (but not private) zip files (except for karbytes_beginner_bytes_computer_science_2010_to_2015.zip) on the one and only "macro directory" web page of the website named Karbytes For Life Blog dot WordPress dot Com).
 
+Note that the comment following each instance of "// folder contains exactly" in the list below is an approximate breakdown of how many megabytes comprise the entire folder which contains the zip files which that comment's respective folder refers to (and that number of megabytes is rounded up for the sake of ensuring that the folder will not exceed the storage capacity of the hardware which is used to store that folder). Note also that different operating systems have provided different data sizes for those folders and that there appears to be more data in those folders than just the zip files in the form of file system overhead (i.e. meta data related to system file management instead of actual karbytes content).
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 M_DISC 3 of 3 (disc contains exactly one folder named karbytes_ultra_2024_edition_12)
 
 M_DISC 3 of 3 data collection name: karbytes_ultra_2024_edition_12
 
-M_DISC 3 of 3 data collection size: 3.7 gigabytes
+M_DISC 3 of 3 data collection size: 3.4 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_12: // folder contains exactly 15 files (3630.1 megabytes total).
+karbytes_ultra_2024_edition_12: // folder contains exactly 15 files (3343.9 megabytes total).
 
     - KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 601.3 kilobytes
 
@@ -50,7 +52,7 @@ karbytes_ultra_2024_edition_12: // folder contains exactly 15 files (3630.1 mega
 
     - KARLINA_OBJECT_extension_pack_18-main.zip // 395.9 megabytes
 
-    - KARLINA_OBJECT_extension_pack_19-main_[undefined_day].zip // 338.5 megabytes
+    - KARLINA_OBJECT_extension_pack_19-main_[undefined_day].zip // 340.2 megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
