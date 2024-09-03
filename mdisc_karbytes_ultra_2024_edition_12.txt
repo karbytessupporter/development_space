@@ -30,7 +30,7 @@ M_DISC 3 of 3 data collection size: 4.2 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_12: // folder contains exactly 15 files (4128.1 megabytes total).
+karbytes_ultra_2024_edition_12: // folder contains exactly 15 files (4129.1 megabytes total).
 
     - KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 609.5 kilobytes
 
@@ -60,7 +60,7 @@ karbytes_ultra_2024_edition_12: // folder contains exactly 15 files (4128.1 mega
 
     - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 116.3 megabytes
 
-    - karbytes_basement_n-main.zip // 7.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_n-main.zip // 8.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
