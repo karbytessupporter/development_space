@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_13.txt
  * type: plain-text
- * date: 08_SEPTEMBER_2024
+ * date: 10_SEPTEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -9,6 +9,8 @@
 The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [undefined_day]. 
 
 Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the M_DISC whose contents encompass all of the data referred to on this web page as karbytes_ultra_2024_edition_13.
+
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the M_DISC whose contents encompass all of the data referred to on this web page as karbytes_ultra_2024_edition_12.
 
 Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the M_DISC whose contents encompass all of the data referred to on this web page as karbytes_ultra_2024_edition_7.
 
@@ -22,15 +24,15 @@ Note that the comment following each instance of "// folder contains exactly" in
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-M_DISC 3 of 3 (disc contains exactly one folder named karbytes_ultra_2024_edition_13)
+M_DISC 4 of 4 (disc contains exactly one folder named karbytes_ultra_2024_edition_13)
 
-M_DISC 3 of 3 data collection name: karbytes_ultra_2024_edition_13
+M_DISC 4 of 4 data collection name: karbytes_ultra_2024_edition_13
 
-M_DISC 3 of 3 data collection size: 1.1 gigabytes
+M_DISC 4 of 4 data collection size: 1.1 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_13: // folder contains exactly 7 files (1067.2 megabytes total).
+karbytes_ultra_2024_edition_13: // folder contains exactly 7 files (1091.9 megabytes total).
 
     - KARBYTES_FOR_LIFE_BLOG-main_[undefined_day]
 
@@ -38,7 +40,7 @@ karbytes_ultra_2024_edition_13: // folder contains exactly 7 files (1067.2 megab
 
     - KARLINA_OBJECT_extension_pack_19-main.zip // 698.7 megabytes
 
-    - KARLINA_OBJECT_extension_pack_20-main_[undefined_day].zip // 3.8 megabytes
+    - KARLINA_OBJECT_extension_pack_20-main_[undefined_day].zip // 28.5 megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
@@ -48,11 +50,53 @@ karbytes_ultra_2024_edition_13: // folder contains exactly 7 files (1067.2 megab
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-M_DISC 2 of 3 (disc contains exactly two folders named karbytes_ultra_2024_edition_7_core and karbytes_ultra_2024_edition_7_setup)
+M_DISC 3 of 4 (disc contains exactly one folder named karbytes_ultra_2024_edition_12)
 
-M_DISC 2 of 3 data collection name: karbytes_ultra_2024_edition_7
+M_DISC 3 of 4 data collection name: karbytes_ultra_2024_edition_12
 
-M_DISC 2 of 3 data collection size: 4.3 gigabytes
+M_DISC 3 of 4 data collection size: 4.2 gigabytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes_ultra_2024_edition_12: // folder contains exactly 15 files (4154.5 megabytes total).
+
+    - KARBYTES_FOR_LIFE_BLOG-main_06september2024.zip // 609.5 kilobytes
+
+    - KARLINA_OBJECT-main.zip // 122.0 megabytes
+
+    - KARLINA_OBJECT_extension_pack_11-main.zip // 8.2 megabytes
+
+    - KARLINA_OBJECT_extension_pack_12-main.zip // 32.7 megabytes
+
+    - KARLINA_OBJECT_extension_pack_13-main.zip // 11.9 megabytes
+
+    - KARLINA_OBJECT_extension_pack_14-main.zip // 6.1 megabytes
+
+    - KARLINA_OBJECT_extension_pack_15-main.zip // 40.3 megabytes
+
+    - KARLINA_OBJECT_extension_pack_16-main.zip // 1083.9 megabytes
+
+    - KARLINA_OBJECT_extension_pack_17-main.zip // 725.0 megabytes
+
+    - KARLINA_OBJECT_extension_pack_18-main.zip // 395.9 megabytes
+
+    - KARLINA_OBJECT_extension_pack_19-main.zip // 698.7 megabytes
+
+    - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
+
+    - KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
+
+    - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 116.3 megabytes
+
+    - karbytes_basement_n-main.zip // 8.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+M_DISC 2 of 4 (disc contains exactly two folders named karbytes_ultra_2024_edition_7_core and karbytes_ultra_2024_edition_7_setup)
+
+M_DISC 2 of 4 data collection name: karbytes_ultra_2024_edition_7
+
+M_DISC 2 of 4 data collection size: 4.3 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -160,11 +204,11 @@ karbytes_ultra_2024_edition_7_setup: // folder contains exactly 37 files (3609.0
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-M_DISC 1 of 3 (disc contains exactly one folder named karbytes_20march2024_journals)
+M_DISC 1 of 4 (disc contains exactly one folder named karbytes_20march2024_journals)
 
-M_DISC 1 of 3 data collection name: karbytes_20march2024_journals
+M_DISC 1 of 4 data collection name: karbytes_20march2024_journals
 
-M_DISC 1 of 3 data collection size: 4.0 gigabytes
+M_DISC 1 of 4 data collection size: 4.0 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
