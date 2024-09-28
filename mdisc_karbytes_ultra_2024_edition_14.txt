@@ -1,14 +1,14 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_14.txt
  * type: plain-text
- * date: 27_SEPTEMBER_2024
+ * date: 28_SEPTEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
 The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 28_SEPTEMBER_2024. 
 
-As of 11:59PM Pacific Standard Time on 28_SEPTEMBER_2024, the aforementioned collection of public domain web-based files (named karbytes) has a data size (rounded up the nearest integer) of 13.6 gigabytes.
+As of 11:59PM Pacific Standard Time on 28_SEPTEMBER_2024, the aforementioned collection of public domain web-based files (named karbytes) has a data size (rounded up the nearest (1/10)th place digit) of 13.6 gigabytes.
 
 * * *
 
@@ -24,7 +24,7 @@ Each zip file which is enumerated on this web page and whose file name contains 
 
 Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created GitHub repository (which is associated with the GitHub username @karlinarayberinger). There also exists exactly one uniquely corresponding "micro directory" web page for each of the aforementioned public (but not private) zip files (except for karbytes_beginner_bytes_computer_science_2010_to_2015.zip) on the one and only "macro directory" web page of the website named Karbytes For Life Blog dot WordPress dot Com).
 
-Note that the comment following each instance of "// folder contains exactly" in the list below is an approximate breakdown of how many megabytes comprise the entire folder which contains the zip files which that comment's respective folder refers to (and that number of megabytes is rounded up for the sake of ensuring that the folder will not exceed the storage capacity of the hardware which is used to store that folder). Note also that different operating systems have provided different data sizes for those folders and that there appears to be more data in those folders than just the zip files in the form of file system overhead (i.e. meta data related to system file management instead of actual karbytes content).
+Note that the comment following each instance of "// folder contains exactly" in the list below is an approximate breakdown of how many megabytes comprise the entire folder which contains the zip files which that comment's respective folder refers to (and that number of megabytes is rounded up (to the nearest (1/10)th place digit) for the sake of ensuring that the folder will not exceed the storage capacity of the hardware which is used to store that folder). Note also that different operating systems have provided different data sizes for those folders and that there appears to be more data in those folders than just the zip files in the form of file system overhead (i.e. meta data related to system file management instead of actual karbytes content).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
