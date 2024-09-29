@@ -36,7 +36,7 @@ M_DISC 4 of 4 data collection size: 1.3 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_14: // folder contains exactly 8 files (1246.2 megabytes total).
+karbytes_ultra_2024_edition_14: // folder contains exactly 8 files (12580.0 megabytes total).
 
     - KARBYTES_FOR_LIFE_BLOG-main_28september2024 // 609.7 kilobytes
 
@@ -46,7 +46,7 @@ karbytes_ultra_2024_edition_14: // folder contains exactly 8 files (1246.2 megab
 
     - KARLINA_OBJECT_extension_pack_20-main.zip // 113.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_21-main.zip // 78.2 megabytes
+    - KARLINA_OBJECT_extension_pack_21-main.zip // 81.3 megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
