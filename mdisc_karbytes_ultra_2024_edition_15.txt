@@ -10,7 +10,7 @@ The following list of M_DISC contents encompass the entire collection of public 
 
 As of 11:59PM Pacific Standard Time on 08_OCTOBER_2024, the aforementioned collection of public domain web-based files (named karbytes) has a data size (to the nearest (1/10)th place digit (i.e. the digit immediately to the right of the radix point (i.e. "."))) of 13.7 gigabytes.
 
-(Total megabytes in karbytes: 13677.4 = 1359.4 + 4154.5 + 611.8 + 3609.0 + 3942.7).
+(Total megabytes in karbytes: 13683.8 = 1365.8 + 4154.5 + 611.8 + 3609.0 + 3942.7).
 
 * * *
 
@@ -38,7 +38,7 @@ M_DISC 4 of 4 data collection size: 1.4 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_15: // folder contains exactly 10 files (1359.4 megabytes total).
+karbytes_ultra_2024_edition_15: // folder contains exactly 10 files (1365.8 megabytes total).
 
     - KARBYTES_FOR_LIFE_BLOG-main_08october2024 // 609.7 kilobytes
 
@@ -50,7 +50,7 @@ karbytes_ultra_2024_edition_15: // folder contains exactly 10 files (1359.4 mega
 
     - KARLINA_OBJECT_extension_pack_21-main.zip // 81.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_22-main // 88.5 megabytes
+    - KARLINA_OBJECT_extension_pack_22-main // 96.1 megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
@@ -58,7 +58,7 @@ karbytes_ultra_2024_edition_15: // folder contains exactly 10 files (1359.4 mega
 
     - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 116.3 megabytes
 
-    - karbytes_basement_n-main.zip // 24.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_n-main.zip // 28.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
