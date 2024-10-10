@@ -10,7 +10,7 @@ The following list of M_DISC contents encompass the entire collection of public 
 
 As of 11:59PM Pacific Standard Time on 09_OCTOBER_2024, the aforementioned collection of public domain web-based files (named karbytes) has a data size (to the nearest (1/10)th place digit (i.e. the digit immediately to the right of the radix point (i.e. "."))) of 14.2 gigabytes.
 
-(Total megabytes in karbytes: 14180.2 = 1862.2 + 4154.5 + 611.8 + 3609.0 + 3942.7).
+(Total megabytes in karbytes: 14184.9 = 1866.9 + 4154.5 + 611.8 + 3609.0 + 3942.7).
 
 * * *
 
@@ -38,7 +38,7 @@ M_DISC 4 of 4 data collection size: 1.9 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_15: // folder contains exactly 10 files (1862.2 megabytes total).
+karbytes_ultra_2024_edition_15: // folder contains exactly 10 files (1866.9 megabytes total).
 
     - KARBYTES_FOR_LIFE_BLOG-main_09october2024 // 609.7 kilobytes
 
@@ -50,7 +50,7 @@ karbytes_ultra_2024_edition_15: // folder contains exactly 10 files (1862.2 mega
 
     - KARLINA_OBJECT_extension_pack_21-main.zip // 81.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_22-main // 580.6 megabytes
+    - KARLINA_OBJECT_extension_pack_22-main // 585.3 megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
