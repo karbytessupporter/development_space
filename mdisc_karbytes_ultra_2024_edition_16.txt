@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_16.txt
  * type: plain-text
- * date: 11_OCTOBER_2024
+ * date: 12_OCTOBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -14,7 +14,7 @@ As of 11:59PM Pacific Standard Time on 11_OCTOBER_2024, the aforementioned colle
 
 The minimum data storage capacity of an M_DISC is approximately 4.7 gigabytes. More expensive versions of the M_DISC can store larger amounts of data. For example, some types of M_DISCs can individually store up to 25 gigabytes while some other types of M_DISCs can individually store up to 100 gigabytes. Whenever possible, karbytes intends to store all of karbytes (up to a specific point in time) to a single M_DISC instead of distributing that data collection across multiple M_DISCs.
 
-Note that, for instances in which karbytes burns all of karbytes to a single M_DISC, karbytes intends to burn every zip file in the folders listed below except for the zip files associated with the "micro directory" named raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG (because that "micro directory" is the only one of the "micro directories" of karbytes which is updated between subsequent M_DISC burnings of karbytes (as of 11:59PM Pacific Standard Time on 18_JUNE_2024)). Hence, when karbytes burns all of the zip files which comprise karbytes to a single M_DISC, each of the zip files which are burned to that disc are unique (i.e. non-duplicate) zip files. For that reason, when karbytes burns all of karbytes to a single M_DISC, the total amount of data which is burned to that disc is smaller than the data size specified in the paragraph above this paragraph in which the total data size of karbytes is the sum of all the megabytes in each of the folders listed on this web page.
+Note that, for instances in which karbytes burns all of karbytes to a single M_DISC, karbytes intends to burn every zip file in the folders listed below except for zip files which are listed more than once on this web page. karbytes will only back up the most recently updated version of each of those duplicate zip files when burning the entire collection of (unique (i.e. non-duplicate)) zip files which comprise the entire collection of digital artifacts labeled karbytes by karbytes (up to that particular moment in time). For that reason, when karbytes burns all of karbytes to a single M_DISC, the total amount of data which is burned to that disc is smaller than the data size specified in the paragraph above this paragraph in which the total data size of karbytes is the sum of all the megabytes in each of the folders listed on this web page.
 
 * * *
 
