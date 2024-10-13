@@ -1,50 +1,58 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_16.txt
  * type: plain-text
- * date: 12_OCTOBER_2024
+ * date: 13_OCTOBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [undefined_day]. 
+The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [undefined_day] (and that specific file collection is named karbytes2024_0). 
 
-As of 11:59PM Pacific Standard Time on 11_OCTOBER_2024, the aforementioned collection of public domain web-based files (named karbytes) has a data size (to the nearest (1/10)th place digit (i.e. the digit immediately to the right of the radix point (i.e. "."))) of 14.2 gigabytes.
+As of 11:59PM Pacific Standard Time on 13_OCTOBER_2024, the aforementioned collection of public domain web-based files (named karbytes) has an approximate data size of 14.4 gigabytes (based on the following summation of multiple folder data sizes):
 
-(Total megabytes in karbytes: 14192.1 = 1874.1 + 4154.5 + 611.8 + 3609.0 + 3942.7).
+total_number_of_megabytes_in_karbytes: 14359.7 = 1886.4 + 3413.5 + 1503.7 + 3613.6 + 3942.5
 
-The minimum data storage capacity of an M_DISC is approximately 4.7 gigabytes. More expensive versions of the M_DISC can store larger amounts of data. For example, some types of M_DISCs can individually store up to 25 gigabytes while some other types of M_DISCs can individually store up to 100 gigabytes. Whenever possible, karbytes intends to store all of karbytes (up to a specific point in time) to a single M_DISC instead of distributing that data collection across multiple M_DISCs.
+(Note that each of the additive terms in the equation above is the sum of multiple file sizes (where each file size is expressed either as some positive real number of megabytes or else as some positive real number of kilobytes)).
 
-Note that, for instances in which karbytes burns all of karbytes to a single M_DISC, karbytes intends to burn every zip file in the folders listed below except for zip files which are listed more than once on this web page. karbytes will only back up the most recently updated version of each of those duplicate zip files when burning the entire collection of (unique (i.e. non-duplicate)) zip files which comprise the entire collection of digital artifacts labeled karbytes by karbytes (up to that particular moment in time). For that reason, when karbytes burns all of karbytes to a single M_DISC, the total amount of data which is burned to that disc is smaller than the data size specified in the paragraph above this paragraph in which the total data size of karbytes is the sum of all the megabytes in each of the folders listed on this web page.
+The minimum data storage capacity of an M_DISC is 4.7 gigabytes. More expensive versions of the M_DISC can store larger amounts of data. For example, some types of M_DISCs can individually store up to 25 gigabytes while some types of M_DISCs can individually store up to 100 gigabytes. Whenever possible, karbytes intends to store all of karbytes (up to a specific point in time) to a single M_DISC instead of distributing that data collection across multiple M_DISCs. (If the total data size of karbytes exceeds the maximum storage capacity of a maximum-storage-capacity M_DISC, then karbytes will attempt to distribute the entirety of karbytes across as few M_DISCs as possible while also attempting to minimize the amount of storage capacity on those discs which is unused).
+
+Note that, for instances in which karbytes burns all of karbytes to a single M_DISC, karbytes intends to burn every zip file in the folders listed below except for zip files which are listed more than once on this web page. karbytes will only back up the most recently updated version of each of those duplicate zip files when burning the entire collection of (unique (i.e. non-duplicate)) zip files listed on this web page. For that reason, when karbytes burns all of karbytes to a single M_DISC, the total amount of data which is burned to that disc is assumed to be smaller than the data size specified in equation above (which sums up the folder sizes (of folders which are not to exceed the minimum data storage capacity of a minimum-storage capacity M_DISC (which is 4.7 gigabytes))).
 
 * * *
 
-Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the M_DISC whose contents encompass all of the data referred to on this web page as karbytes_ultra_2024_edition_16.
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes_ultra_2024_edition_16.
 
-Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the M_DISC whose contents encompass all of the data referred to on this web page as karbytes_ultra_2024_edition_12.
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page askarbytes_ultra_2024_edition_12.
 
-Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the M_DISC whose contents encompass all of the data referred to on this web page as karbytes_ultra_2024_edition_7.
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes_ultra_2024_edition_7_core.
 
-Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the M_DISC whose contents encompass all of the data referred to on this web page as karbytes_20march2024_journals.
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes_ultra_2024_edition_7_setup.
 
-Each zip file which is enumerated on this web page and whose file name contains the string "_[undefined_day]" (quotation characters not included) was downloaded from exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on [undefined_day]. 
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes_20march2024_journals.
 
-Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created GitHub repository (which is associated with the GitHub username @karlinarayberinger). There also exists exactly one uniquely corresponding "micro directory" web page for each of the aforementioned public (but not private) zip files (except for karbytes_beginner_bytes_computer_science_2010_to_2015.zip) on the one and only "macro directory" web page of the website named Karbytes For Life Blog dot WordPress dot Com).
+* * *
 
-Note that the comment following each instance of "// folder contains exactly" in the list below is an approximate breakdown of how many megabytes comprise the entire folder which contains the zip files which that comment's respective folder refers to (and that number of megabytes is rounded up (to the nearest (1/10)th place digit (i.e. the digit immediately to the right of the radix point (i.e. ".")))) for the sake of ensuring that the folder will not exceed the storage capacity of the hardware which is used to store that folder). Note also that different operating systems have provided different data sizes for those folders and that there appears to be more data in those folders than just the zip files in the form of file system overhead (i.e. meta data related to system file management instead of actual karbytes content).
+Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created GitHub repository (which is associated with the GitHub username @karlinarayberinger).
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Each zip file which is enumerated on this web page whose file name contains the string "_[undefined_day]" (quotation characters not included) was refers to exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on [undefined_day]. 
 
-M_DISC 4 of 4 (disc contains exactly one folder named karbytes_ultra_2024_edition_16)
+Each zip file which is enumerated on this web page has exactly one uniquely corresponding "micro directory" web page (in the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com) if and only if that zip file is derived from a public (rather than from a private) GitHub repository. Zip files which are enumerated on this web page and which are downloaded from private GitHub repositories contain the leading characters "karbytes_basement_" (quotations not included).
 
-M_DISC 4 of 4 data collection name: karbytes_ultra_2024_edition_16
-
-M_DISC 4 of 4 data collection size: 1.9 gigabytes
+Finally, each zip file which is referenced on this web page has a file name with the trailing characters "-main.zip" (quotations not included) to indicate that the respective zip file was downloaded from the main branch of the corresponding GitHub repository (and that GitHub repository contains only one branch (i.e. the master branch) rather than branches representing commit histories which are not identical to the master branch of that GitHub repository).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_16: // folder contains exactly 11 files (1874.1 megabytes total).
+M_DISC 5 of 5 (disc contains exactly one folder named karbytes_ultra_2024_edition_16)
 
-    - KARBYTES_FOR_LIFE_BLOG-main_[undefined_day] // 609.7 kilobytes
+M_DISC 5 of 5 data collection name: karbytes_ultra_2024_edition_16
+
+M_DISC 5 of 5 data collection size: 1.9 gigabytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes_ultra_2024_edition_16: // folder contains exactly 11 files (1886.4 megabytes total).
+
+    - KARBYTES_FOR_LIFE_BLOG-main_[undefined_day] // 610.0 kilobytes
 
     - KARLINA_OBJECT-main.zip // 122.1 megabytes
 
@@ -54,321 +62,329 @@ karbytes_ultra_2024_edition_16: // folder contains exactly 11 files (1874.1 mega
 
     - KARLINA_OBJECT_extension_pack_21-main.zip // 81.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_22-main // 580.6 megabytes
+    - KARLINA_OBJECT_extension_pack_22-main // 585.3 megabytes
 
     - KARLINA_OBJECT_extension_pack_23-main_[undefined_day] // 11.9 megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
-    - KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
+    - KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
-    - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 116.3 megabytes
+    - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
 
     - karbytes_basement_n-main.zip // 35.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-M_DISC 3 of 4 (disc contains exactly one folder named karbytes_ultra_2024_edition_12)
+M_DISC 4 of 5 (disc contains exactly one folder named karbytes_ultra_2024_edition_12)
 
-M_DISC 3 of 4 data collection name: karbytes_ultra_2024_edition_12
+M_DISC 4 of 5 data collection name: karbytes_ultra_2024_edition_12
 
-M_DISC 3 of 4 data collection size: 4.2 gigabytes
+M_DISC 4 of 5 data collection size: 3.5 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_12: // folder contains exactly 15 files (4154.5 megabytes total).
+karbytes_ultra_2024_edition_12: // folder contains exactly 15 files (3413.5 megabytes total).
 
-    - KARBYTES_FOR_LIFE_BLOG-main_06september2024.zip // 609.5 kilobytes
+    - KARBYTES_FOR_LIFE_BLOG-main_06september2024.zip // 610.0 kilobytes
 
-    - KARLINA_OBJECT-main.zip // 122.0 megabytes
+    - KARLINA_OBJECT-main.zip // 122.1 megabytes
 
-    - KARLINA_OBJECT_extension_pack_11-main.zip // 8.2 megabytes
+    - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 91.1 megabytes
 
-    - KARLINA_OBJECT_extension_pack_12-main.zip // 32.7 megabytes
+    - KARLINA_OBJECT_extension_pack_11-main.zip // 8.6 megabytes
 
-    - KARLINA_OBJECT_extension_pack_13-main.zip // 11.9 megabytes
+    - KARLINA_OBJECT_extension_pack_12-main.zip // 34.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_14-main.zip // 6.1 megabytes
+    - KARLINA_OBJECT_extension_pack_13-main.zip // 12.5 megabytes
 
-    - KARLINA_OBJECT_extension_pack_15-main.zip // 40.3 megabytes
+    - KARLINA_OBJECT_extension_pack_14-main.zip // 6.4 megabytes
 
-    - KARLINA_OBJECT_extension_pack_16-main.zip // 1083.9 megabytes
+    - KARLINA_OBJECT_extension_pack_15-main.zip // 42.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_17-main.zip // 725.0 megabytes
+    - KARLINA_OBJECT_extension_pack_16-main.zip // 1035.0 megabytes
 
-    - KARLINA_OBJECT_extension_pack_18-main.zip // 395.9 megabytes
+    - KARLINA_OBJECT_extension_pack_17-main.zip // 760.2 megabytes
+
+    - KARLINA_OBJECT_extension_pack_18-main.zip // 415.4 megabytes
 
     - KARLINA_OBJECT_extension_pack_19-main.zip // 698.7 megabytes
 
-    - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
+    - KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
-    - KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
+    - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
 
-    - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 116.3 megabytes
-
-    - karbytes_basement_n-main.zip // 8.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_n-main.zip // 35.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-M_DISC 2 of 4 (disc contains exactly two folders named karbytes_ultra_2024_edition_7_core and karbytes_ultra_2024_edition_7_setup)
+M_DISC 3 of 5 (disc contains exactly one folder named karbytes_ultra_2024_edition_7_core)
 
-M_DISC 2 of 4 data collection name: karbytes_ultra_2024_edition_7
+M_DISC 3 of 5 data collection name: karbytes_ultra_2024_edition_7_core
 
-M_DISC 2 of 4 data collection size: 4.3 gigabytes
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-karbytes_ultra_2024_edition_7_core: // folder contains exactly 11 files (611.8 megabytes total).
-
-    - KARBYTES_FOR_LIFE_BLOG-main_18june2024.zip // 601.3 kilobytes
-
-    - KARLINA_OBJECT-main.zip // 116.3 megabytes
-
-    - KARLINA_OBJECT_extension_pack_11-main.zip // 8.2 megabytes
-
-    - KARLINA_OBJECT_extension_pack_12-main.zip // 32.7 megabytes
-
-    - KARLINA_OBJECT_extension_pack_13-main.zip // 11.9 megabytes
-
-    - KARLINA_OBJECT_extension_pack_14-main.zip // 6.1 megabytes
-
-    - KARLINA_OBJECT_extension_pack_15-main.zip // 40.3 megabytes
-
-    - KARLINA_OBJECT_extension_pack_16-main_18june2024.zip // 164.8 megabytes
-
-    - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
-
-    - KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
-
-    - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 116.3 megabytes
+M_DISC 3 of 5 data collection size: 1.6 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_7_setup: // folder contains exactly 37 files (3609.0 megabytes total).
+karbytes_ultra_2024_edition_7_core: // folder contains exactly 11 files (1503.7 megabytes total).
 
-    - INSTAGRAM_KARBYTES_2024-main.zip // 317.3 megabytes
+    - KARBYTES_FOR_LIFE_BLOG-main_18june2024.zip // 610.0 kilobytes
 
-    - karbytes_23AndMe_Ancestry_Data-main.zip // 6.5 megabytes
+    - KARLINA_OBJECT-main.zip // 122.1 megabytes
 
-    - karbytes_beginner_bytes_computer_science_2010_to_2015.zip // 331.5 megabytes
+    - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 91.1 megabytes
 
-    - karbytes_basement_0-main.zip // 149.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - KARLINA_OBJECT_extension_pack_11-main.zip // 8.6 megabytes
 
-    - karbytes_basement_1-main.zip // 164.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - KARLINA_OBJECT_extension_pack_12-main.zip // 34.3 megabytes
 
-    - karbytes_basement_2-main.zip // 65.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - KARLINA_OBJECT_extension_pack_13-main.zip // 12.5 megabytes
 
-    - karbytes_basement_3-main.zip // 2.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - KARLINA_OBJECT_extension_pack_14-main.zip // 6.4 megabytes
 
-    - karbytes_basement_4-main.zip // 24.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - KARLINA_OBJECT_extension_pack_15-main.zip // 42.3 megabytes
 
-    - karbytes_basement_5-main.zip // 6.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - KARLINA_OBJECT_extension_pack_16-main_18june2024.zip // 1035.0 megabytes
+
+    - KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
+
+    - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+M_DISC 2 of 5 (disc contains exactly one folder named karbytes_ultra_2024_edition_7_setup)
+
+M_DISC 2 of 5 data collection name: karbytes_ultra_2024_edition_7_setup
+
+M_DISC 2 of 5 data collection size: 3.7 gigabytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes_ultra_2024_edition_7_setup: // folder contains exactly 37 files (3613.6 megabytes total).
+
+    - INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
+
+    - karbytes_23AndMe_Ancestry_Data-main.zip // 6.8 megabytes
+
+    - karbytes_basement_0-main.zip // 156.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - karbytes_basement_1-main.zip // 172.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - karbytes_basement_2-main.zip // 69.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - karbytes_basement_3-main.zip // 2.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - karbytes_basement_4-main.zip // 25.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - karbytes_basement_5-main.zip // 7.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - karbytes_basement_6-main.zip // 1.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_7-main.zip // 2.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_7-main.zip // 2.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_8-main.zip // 10.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_8-main.zip // 11.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_9-main.zip // 34.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_9-main.zip // 36.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_10-main.zip // 16.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_10-main.zip // 16.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_11-main.zip // 26.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_11-main.zip // 27.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_12-main.zip // 7.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_12-main.zip // 7.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_13-main.zip // 63.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_13-main.zip // 70.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
+    - karbytes_beginner_bytes_computer_science_2010_to_2015.zip // 347.6 megabytes
 
-    - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
+    - KARLINA_OBJECT_12_JUNE_2023-main.zip // 20.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_0-main.zip // 90.1 megabytes
+    - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 91.1 megabytes
 
-    - KARLINA_OBJECT_extension_pack_1-main.zip // 38.8 megabytes
+    - KARLINA_OBJECT_extension_pack_0-main.zip // 94.5 megabytes
 
-    - KARLINA_OBJECT_extension_pack_2-main.zip // 124.3 megabytes
+    - KARLINA_OBJECT_extension_pack_1-main.zip // 40.7 megabytes
 
-    - KARLINA_OBJECT_extension_pack_3-main.zip // 363.5 megabytes
+    - KARLINA_OBJECT_extension_pack_2-main.zip // 130.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_4-main.zip // 332.3 megabytes
+    - KARLINA_OBJECT_extension_pack_3-main.zip // 381.2 megabytes
 
-    - KARLINA_OBJECT_extension_pack_5-main.zip // 208.2 megabytes
+    - KARLINA_OBJECT_extension_pack_4-main.zip // 348.5 megabytes
 
-    - KARLINA_OBJECT_extension_pack_6-main.zip // 24.0 megabytes
+    - KARLINA_OBJECT_extension_pack_5-main.zip // 218.5 megabytes
 
-    - KARLINA_OBJECT_extension_pack_7-main.zip // 41.9 megabytes
+    - KARLINA_OBJECT_extension_pack_6-main.zip // 25.2 megabytes
 
-    - KARLINA_OBJECT_extension_pack_8-main.zip // 99.7 megabytes
+    - KARLINA_OBJECT_extension_pack_7-main.zip // 44.0 megabytes
 
-    - KARLINA_OBJECT_extension_pack_9-main.zip // 226.4 megabytes
+    - KARLINA_OBJECT_extension_pack_8-main.zip // 104.5 megabytes
 
-    - KARLINA_OBJECT_extension_pack_10-main.zip // 257.7 megabytes
+    - KARLINA_OBJECT_extension_pack_9-main.zip // 237.5 megabytes
 
-    - KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
+    - KARLINA_OBJECT_extension_pack_10-main.zip // 270.9 megabytes
 
-    - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 116.3 megabytes
+    - KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
-    - PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 468.1 kilobytes
+    - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
 
-    - PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip // 15.3 megabytes
+    - MINDS_2020_SCREENSHOTS-main.zip // 129.7 megabytes
 
-    - PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip // 14.3 megabytes
+    - PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 479.3 kilobytes
 
-    - MINDS_2020_SCREENSHOTS-main.zip // 123.5 megabytes
+    - PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip // 16.1 megabytes
 
-    - RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 276.4 kilobytes
+    - PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip // 15.0 megabytes
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-M_DISC 1 of 4 (disc contains exactly one folder named karbytes_20march2024_journals)
-
-M_DISC 1 of 4 data collection name: karbytes_20march2024_journals
-
-M_DISC 1 of 4 data collection size: 4.0 gigabytes
+    - RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 283.1 kilobytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_20march2024_journals: // folder contains exactly 69 files (3942.7 megabytes total).
+M_DISC 1 of 5 (disc contains exactly one folder named karbytes_20march2024_journals)
 
-    - INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip // 166.6 megabytes
+M_DISC 1 of 5 data collection name: karbytes_20march2024_journals
 
-    - INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip // 211.7 megabytes
+M_DISC 1 of 5 data collection size: 4.0 gigabytes
 
-    - karbytes_basement_0-main.zip // 149.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    - karbytes_basement_1-main.zip // 164.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+karbytes_20march2024_journals: // folder contains exactly 69 files (3942.5 megabytes total).
 
-    - karbytes_basement_2-main.zip // 65.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip // 222.0 megabytes
 
-    - karbytes_basement_3-main.zip // 2.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip // 174.8 megabytes
 
-    - karbytes_basement_4-main.zip // 24.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_0-main.zip // 156.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_5-main.zip // 6.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_1-main.zip // 172.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - karbytes_basement_2-main.zip // 69.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - karbytes_basement_3-main.zip // 2.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - karbytes_basement_4-main.zip // 25.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - karbytes_basement_5-main.zip // 7.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - karbytes_basement_6-main.zip // 1.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_7-main.zip // 2.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_7-main.zip // 2.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - karbytes_basement_8-main.zip // 10.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_8-main.zip // 11.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - KARBYTES_BRAND_IMAGES_2021-main.zip // 9.8 megabytes
+    - KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_0-main.zip // 31.0 megabytes
+    - KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_1-main.zip // 18.8 megabytes
+    - KARBYTES_JOURNAL_2022_PART_1-main.zip // 19.7 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_2-main.zip // 7.2 megabytes
+    - KARBYTES_JOURNAL_2022_PART_2-main.zip // 7.5 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_3-main.zip // 17.9 megabytes
+    - KARBYTES_JOURNAL_2022_PART_3-main.zip // 18.7 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_4-main.zip // 55.5 megabytes
+    - KARBYTES_JOURNAL_2022_PART_4-main.zip // 56.8 kilobytes
 
-    - KARBYTES_JOURNAL_2022_PART_5-main.zip // 23.9 megabytes
+    - KARBYTES_JOURNAL_2022_PART_5-main.zip // 25.1 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_6-main.zip // 56.2 megabytes
+    - KARBYTES_JOURNAL_2022_PART_6-main.zip // 58.9 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_7-main.zip // 108.3 megabytes
+    - KARBYTES_JOURNAL_2022_PART_7-main.zip // 113.6 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_8-main.zip // 69.3 megabytes
+    - KARBYTES_JOURNAL_2022_PART_8-main.zip // 72.7 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_9-main.zip // 56.0 megabytes
+    - KARBYTES_JOURNAL_2022_PART_9-main.zip // 58.7 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_10-main.zip // 12.9 megabytes
+    - KARBYTES_JOURNAL_2022_PART_10-main.zip // 13.5 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_11-main.zip // 48.5 megabytes
+    - KARBYTES_JOURNAL_2022_PART_11-main.zip // 50.9 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_12-main.zip // 37.4 megabytes
+    - KARBYTES_JOURNAL_2022_PART_12-main.zip // 39.2 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_13-main.zip // 33.3 megabytes
+    - KARBYTES_JOURNAL_2022_PART_13-main.zip // 35.0 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_14-main.zip // 53.4 megabytes
+    - KARBYTES_JOURNAL_2022_PART_14-main.zip // 55.9 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_15-main.zip // 62.0 megabytes
+    - KARBYTES_JOURNAL_2022_PART_15-main.zip // 65.0 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_16-main.zip // 127.5 megabytes
+    - KARBYTES_JOURNAL_2022_PART_16B-main.zip // 160.6 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_16B-main.zip // 153.2 megabytes
+    - KARBYTES_JOURNAL_2022_PART_16C-main.zip // 208.3 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_16C-main.zip // 198.6 megabytes
+    - KARBYTES_JOURNAL_2022_PART_16D-main.zip // 226.0 megabytes
 
-    - KARBYTES_JOURNAL_2022_PART_16D-main.zip // 215.5 megabytes
+    - KARBYTES_JOURNAL_2022_PART_16-main.zip // 133.7 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_0-main.zip // 41.2 megabytes
+    - KARBYTES_JOURNAL_2023_PART_0-main.zip // 43.3 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_1-main.zip // 82.8 megabytes    
+    - KARBYTES_JOURNAL_2023_PART_1-main.zip // 86.8 megabytes    
 
-    - KARBYTES_JOURNAL_2023_PART_2-main.zip // 51.7 megabytes    
+    - KARBYTES_JOURNAL_2023_PART_2-main.zip // 54.2 megabytes    
 
-    - KARBYTES_JOURNAL_2023_PART_3-main.zip // 56.5 megabytes    
+    - KARBYTES_JOURNAL_2023_PART_3-main.zip // 59.2 megabytes    
 
-    - KARBYTES_JOURNAL_2023_PART_4-main.zip // 12.8 megabytes    
+    - KARBYTES_JOURNAL_2023_PART_4-main.zip // 13.4 megabytes    
 
-    - KARBYTES_JOURNAL_2023_PART_5-main.zip // 24.6 megabytes    
+    - KARBYTES_JOURNAL_2023_PART_5-main.zip // 25.8 megabytes    
 
-    - KARBYTES_JOURNAL_2023_PART_6-main.zip // 28.4 megabytes    
+    - KARBYTES_JOURNAL_2023_PART_6-main.zip // 29.7 megabytes    
 
-    - KARBYTES_JOURNAL_2023_PART_7-main.zip // 16.8 megabytes    
+    - KARBYTES_JOURNAL_2023_PART_7-main.zip // 17.6 megabytes    
 
-    - KARBYTES_JOURNAL_2023_PART_8-main.zip // 5.7 megabytes 
+    - KARBYTES_JOURNAL_2023_PART_8-main.zip // 6.0 megabytes 
 
-    - KARBYTES_JOURNAL_2023_PART_9-main.zip // 67.1 megabytes    
+    - KARBYTES_JOURNAL_2023_PART_9-main.zip // 70.4 megabytes    
 
-    - KARBYTES_JOURNAL_2023_PART_10-main.zip // 14.2 megabytes  
+    - KARBYTES_JOURNAL_2023_PART_10-main.zip // 14.9 megabytes  
 
-    - KARBYTES_JOURNAL_2023_PART_11-main.zip // 25.0 megabytes  
+    - KARBYTES_JOURNAL_2023_PART_11-main.zip // 26.2 megabytes  
 
-    - KARBYTES_JOURNAL_2023_PART_12-main.zip // 89.0 megabytes  
+    - KARBYTES_JOURNAL_2023_PART_12-main.zip // 93.4 megabytes  
 
-    - KARBYTES_JOURNAL_2023_PART_13-main.zip // 122.9 megabytes 
+    - KARBYTES_JOURNAL_2023_PART_13-main.zip // 128.9 megabytes 
 
-    - KARBYTES_JOURNAL_2023_PART_14-main.zip // 7.6 megabytes   
+    - KARBYTES_JOURNAL_2023_PART_14-main.zip // 8.0 megabytes   
 
-    - KARBYTES_JOURNAL_2023_PART_15-main.zip // 3.7 megabytes   
+    - KARBYTES_JOURNAL_2023_PART_15-main.zip // 3.9 megabytes   
 
-    - KARBYTES_JOURNAL_2023_PART_16-main.zip // 22.6 megabytes
+    - KARBYTES_JOURNAL_2023_PART_16-main.zip // 23.7 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.1 megabytes
+    - KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.4 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_18-main.zip // 12.0 megabytes
+    - KARBYTES_JOURNAL_2023_PART_18-main.zip // 12.6 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_19-main.zip // 18.8 megabytes
+    - KARBYTES_JOURNAL_2023_PART_19-main.zip // 19.7 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_20-main.zip // 17.0 megabytes
+    - KARBYTES_JOURNAL_2023_PART_20-main.zip // 17.8 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_21-main.zip // 4.5 megabytes
+    - KARBYTES_JOURNAL_2023_PART_21-main.zip // 4.7 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_22-main.zip // 3.3 megabytes
+    - KARBYTES_JOURNAL_2023_PART_22-main.zip // 3.4 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_23-main.zip // 93.3 megabytes
+    - KARBYTES_JOURNAL_2023_PART_23-main.zip // 97.8 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_24-main.zip // 54.7 megabytes
+    - KARBYTES_JOURNAL_2023_PART_24-main.zip // 57.3 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_25-main.zip // 155.5 megabytes
+    - KARBYTES_JOURNAL_2023_PART_25-main.zip // 163.0 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_26-main.zip // 81.7 megabytes
+    - KARBYTES_JOURNAL_2023_PART_26-main.zip // 85.7 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_27-main.zip // 55.6 megabytes
+    - KARBYTES_JOURNAL_2023_PART_27-main.zip // 58.3 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_28-main.zip // 76.6 megabytes
+    - KARBYTES_JOURNAL_2023_PART_28-main.zip // 80.3 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_29-main.zip // 79.8 megabytes
+    - KARBYTES_JOURNAL_2023_PART_29-main.zip // 83.7 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_30-main.zip // 65.8 megabytes
+    - KARBYTES_JOURNAL_2023_PART_30-main.zip // 69.0 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_31-main.zip // 26.9 megabytes
+    - KARBYTES_JOURNAL_2023_PART_31-main.zip // 28.2 megabytes
 
-    - KARBYTES_JOURNAL_2023_PART_32-main.zip // 179.7 megabytes
+    - KARBYTES_JOURNAL_2023_PART_32-main.zip // 188.4 megabytes
 
-    - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 1.9 megabytes
+    - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 2.0 megabytes
 
-    - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.3 megabytes
+    - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.5 megabytes
 
     - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
 
-    - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.3 megabytes
+    - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.5 megabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
