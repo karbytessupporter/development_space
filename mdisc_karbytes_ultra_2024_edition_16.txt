@@ -8,9 +8,9 @@
 
 The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [undefined_day] (and that specific file collection is named karbytes2024_0). 
 
-As of 11:59PM Pacific Standard Time on 13_OCTOBER_2024, the aforementioned collection of public domain web-based files (named karbytes) has an approximate data size of 14.4 gigabytes (based on the following summation of multiple folder data sizes):
+As of 11:59PM Pacific Standard Time on 14_OCTOBER_2024, the aforementioned collection of public domain web-based files (named karbytes) has an approximate data size of 14.4 gigabytes (based on the following summation of multiple folder data sizes):
 
-total_number_of_megabytes_in_karbytes: 14360.2 = 1886.9 + 3413.5 + 1503.7 + 3613.6 + 3942.5
+total_number_of_megabytes_in_karbytes: 14360.3 = 1887.0 + 3413.5 + 1503.7 + 3613.6 + 3942.5
 
 (Note that each of the additive terms in the equation above is the sum of multiple file sizes (where each file size is expressed either as some positive real number of megabytes or else as some positive real number of kilobytes)).
 
@@ -50,7 +50,7 @@ M_DISC 5 of 5 data collection size: 1.9 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_16: // folder contains exactly 11 files (1886.9 megabytes total).
+karbytes_ultra_2024_edition_16: // folder contains exactly 11 files (1887.0 megabytes total).
 
     - KARBYTES_FOR_LIFE_BLOG-main_[undefined_day] // 610.0 kilobytes
 
@@ -64,7 +64,7 @@ karbytes_ultra_2024_edition_16: // folder contains exactly 11 files (1886.9 mega
 
     - KARLINA_OBJECT_extension_pack_22-main // 585.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_23-main_[undefined_day] // 12.4 megabytes
+    - KARLINA_OBJECT_extension_pack_23-main_[undefined_day] // 12.5 megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
