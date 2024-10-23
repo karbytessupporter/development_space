@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2024_0.txt
  * type: plain-text
- * date: 21_OCTOBER_2024
+ * date: 23_OCTOBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -30,7 +30,7 @@ M_DISC 1 of 1 data collection size: approximately 10.8 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2024_0: // folder contains exactly 113 files (approximately 10749.8 megabytes total).
+karbytes2024_0: // folder contains exactly 114 files (approximately 10763.8 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -74,7 +74,7 @@ karbytes2024_0: // folder contains exactly 113 files (approximately 10749.8 mega
 
     - zip_file_20: KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - zip_file_21: KARBYTES_FOR_LIFE_BLOG-main_22october2024 // 610.1 kilobytes
+    - zip_file_21: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 610.1 kilobytes
 
     - zip_file_22: KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
@@ -232,31 +232,33 @@ karbytes2024_0: // folder contains exactly 113 files (approximately 10749.8 mega
 
     - zip_file_99: KARLINA_OBJECT_extension_pack_21-main.zip // 81.3 megabytes
 
-    - zip_file_100: KARLINA_OBJECT_extension_pack_22-main // 585.3 megabytes
+    - zip_file_100: KARLINA_OBJECT_extension_pack_22-main.zip // 585.3 megabytes
 
-    - zip_file_101: KARLINA_OBJECT_extension_pack_23-main // 161.9 megabytes
+    - zip_file_101: KARLINA_OBJECT_extension_pack_23-main.zip // 161.9 megabytes
 
-    - zip_file_102: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
+    - zip_file_102: KARLINA_OBJECT_extension_pack_24-main_[undefined_day].zip // 14.6 megabytes
 
-    - zip_file_103: KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
+    - zip_file_103: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
-    - zip_file_104: MINDS_2020_SCREENSHOTS-main.zip // 129.7 megabytes
+    - zip_file_104: KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
 
-    - zip_file_105: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 2.0 megabytes
+    - zip_file_105: MINDS_2020_SCREENSHOTS-main.zip // 129.7 megabytes
 
-    - zip_file_106: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.5 megabytes
+    - zip_file_106: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 2.0 megabytes
 
-    - zip_file_107: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
+    - zip_file_107: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.5 megabytes
 
-    - zip_file_108: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.5 megabytes
+    - zip_file_108: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
 
-    - zip_file_109: PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 479.3 kilobytes
+    - zip_file_109: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.5 megabytes
 
-    - zip_file_110: PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip // 16.1 megabytes
+    - zip_file_110: PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 479.3 kilobytes
 
-    - zip_file_111: PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip // 15.0 megabytes
+    - zip_file_111: PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip // 16.1 megabytes
 
-    - zip_file_112: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 283.1 kilobytes
+    - zip_file_112: PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip // 15.0 megabytes
+
+    - zip_file_113: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 283.1 kilobytes
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
