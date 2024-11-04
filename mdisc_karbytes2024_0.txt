@@ -1,12 +1,12 @@
 /**
  * file: mdisc_karbytes2024_0.txt
  * type: plain-text
- * date: 03_NOVEMBER_2024
+ * date: 04_NOVEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [undefined_day] (and that specific file collection is named karbytes2024_0). 
+The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 08_NOVEMBER_2024 (and that specific file collection is named karbytes2024_0). 
 
 Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2024_0.
 
@@ -26,11 +26,11 @@ M_DISC 1 of 1 (disc contains exactly one folder named karbytes2024_0)
 
 M_DISC 1 of 1 data collection name: karbytes2024_0
 
-M_DISC 1 of 1 data collection size: approximately 10.8 gigabytes
+M_DISC 1 of 1 data collection size: approximately 10.9 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2024_0: // folder contains exactly 114 files (approximately 10856.6 megabytes total).
+karbytes2024_0: // folder contains exactly 114 files (approximately 10860.1 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -74,7 +74,7 @@ karbytes2024_0: // folder contains exactly 114 files (approximately 10856.6 mega
 
     - zip_file_20: KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - zip_file_21: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 610.1 kilobytes
+    - zip_file_21: KARBYTES_FOR_LIFE_BLOG-main_08november2024.zip // 610.1 kilobytes
 
     - zip_file_22: KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
@@ -236,7 +236,7 @@ karbytes2024_0: // folder contains exactly 114 files (approximately 10856.6 mega
 
     - zip_file_101: KARLINA_OBJECT_extension_pack_23-main.zip // 161.9 megabytes
 
-    - zip_file_102: KARLINA_OBJECT_extension_pack_24-main_[undefined_day].zip // 111.0 megabytes
+    - zip_file_102: KARLINA_OBJECT_extension_pack_24-main.zip // 114.6 megabytes
 
     - zip_file_103: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
