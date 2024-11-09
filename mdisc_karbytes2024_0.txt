@@ -1,18 +1,18 @@
 /**
  * file: mdisc_karbytes2024_0.txt
  * type: plain-text
- * date: 07_NOVEMBER_2024
+ * date: 09_NOVEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 08_NOVEMBER_2024 (and that specific file collection is named karbytes2024_0). 
+The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [undefined_day] (and that specific file collection is named karbytes2024_0). 
 
 Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2024_0.
 
 That entire aforementioned file collection named karbytes2024_0 is too large to fit on one 4.7 gigabyte M_DISC but small enough to fit on one 25 gigabyte M_DISC.
 
-The total number of megabytes in the folder named karbytes2024 (which contains exclusively 113 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
+The total number of megabytes in the folder named karbytes2024 (which contains exclusively 115 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
 
 https://karbytesforlifeblog.wordpress.com/print_folder_contents
 
@@ -30,7 +30,7 @@ M_DISC 1 of 1 data collection size: approximately 10.9 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2024_0: // folder contains exactly 114 files (approximately 10891.4 megabytes total).
+karbytes2024_0: // folder contains exactly 115 files (approximately 10901.2 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -74,7 +74,7 @@ karbytes2024_0: // folder contains exactly 114 files (approximately 10891.4 mega
 
     - zip_file_20: KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - zip_file_21: KARBYTES_FOR_LIFE_BLOG-main_08november2024.zip // 610.9 kilobytes
+    - zip_file_21: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 610.9 kilobytes
 
     - zip_file_22: KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
@@ -238,28 +238,29 @@ karbytes2024_0: // folder contains exactly 114 files (approximately 10891.4 mega
 
     - zip_file_102: KARLINA_OBJECT_extension_pack_24-main.zip // 147.5 megabytes
 
-    - zip_file_103: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
+    - zip_file_103: KARLINA_OBJECT_extension_pack_24-main_[undefined_day].zip // 10.3 megabytes
 
-    - zip_file_104: KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
+    - zip_file_104: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
-    - zip_file_105: MINDS_2020_SCREENSHOTS-main.zip // 129.7 megabytes
+    - zip_file_105: KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
 
-    - zip_file_106: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 2.0 megabytes
+    - zip_file_106: MINDS_2020_SCREENSHOTS-main.zip // 129.7 megabytes
 
-    - zip_file_107: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.5 megabytes
+    - zip_file_107: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 2.0 megabytes
 
-    - zip_file_108: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
+    - zip_file_108: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.5 megabytes
 
-    - zip_file_109: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.5 megabytes
+    - zip_file_109: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
 
-    - zip_file_110: PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 479.3 kilobytes
+    - zip_file_110: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.5 megabytes
 
-    - zip_file_111: PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip // 16.1 megabytes
+    - zip_file_111: PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 479.3 kilobytes
 
-    - zip_file_112: PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip // 15.0 megabytes
+    - zip_file_112: PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip // 16.1 megabytes
 
-    - zip_file_113: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 283.1 kilobytes
+    - zip_file_113: PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip // 15.0 megabytes
 
+    - zip_file_114: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 283.1 kilobytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
