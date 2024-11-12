@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2024_0.txt
  * type: plain-text
- * date: 09_NOVEMBER_2024
+ * date: 11_NOVEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -26,11 +26,11 @@ M_DISC 1 of 1 (disc contains exactly one folder named karbytes2024_0)
 
 M_DISC 1 of 1 data collection name: karbytes2024_0
 
-M_DISC 1 of 1 data collection size: approximately 10.9 gigabytes
+M_DISC 1 of 1 data collection size: approximately 11.0 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2024_0: // folder contains exactly 115 files (approximately 10902.5 megabytes total).
+karbytes2024_0: // folder contains exactly 115 files (approximately 10948.7 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -118,7 +118,7 @@ karbytes2024_0: // folder contains exactly 115 files (approximately 10902.5 mega
 
     - zip_file_42: KARBYTES_JOURNAL_2023_PART_0-main.zip // 43.3 megabytes
 
-    - zip_file_43: KARBYTES_OBJECT-main.zip // 122.1 megabytes
+    - zip_file_43: KARBYTES_OBJECT-main.zip // 170.6 megabytes
 
     - zip_file_44: KARBYTES_JOURNAL_2023_PART_1-main.zip // 86.8 megabytes    
 
