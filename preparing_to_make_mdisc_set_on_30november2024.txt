@@ -1,0 +1,26 @@
+/**
+ * file: preparing_to_make_mdisc_set_on_30november2024.txt
+ * type: plain-text
+ * date: 30_NOVEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+karbytes is in the process of burning three M_DISCs which each have the same data contents burned to them.
+
+Those data contents consist of, at minimum, all of the zip files which are enumerated on the following web page in the folder named mdisc_karbytes_ultra_2024_edition_19 (i.e. disc 5 of 5):
+
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_edition_19/
+
+A single unwritten 4.7 gigabyte M_DISC has a data storage capacity sufficient to store the 14 zip files which comprise the aforementioned folder named mdisc_karbytes_ultra_2024_edition_19 (or else exactly one of the other five M_DISC folders whose zip file contents are enumerated on the aforementioned web page).
+
+A single unwritten 25 gigabyte M_DISC has a data storage capacity sufficient to store all of karbytes (up to the point in time in which the “micro directory” named raw_github_files_directory_KARLINA_OBJECT_extension_pack_26 of the website named Karbytes For Life Blog dot WordPress dot Com named is determined by karbytes to be finalized (i.e. closed to further changes)).
+
+An addition to what is described in the paragraphs above this paragraph, a single folder containing exclusively 116 (or more) unique (i.e. non-duplicate) zip files which are each downloaded from karbytes-created GitHub repositories (from the GitHub dot Com user account whose username is @karlinarayberinger) is named karbytes2024_0 (and that folder is what will be burned to three 25 gigabyte capacity M_DISCs). The contents of each of those three 25 gigabyte capacity M_DISCs is enumerated on the following web page:
+
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2024_0/
+
+Sincerely,
+karbytes
