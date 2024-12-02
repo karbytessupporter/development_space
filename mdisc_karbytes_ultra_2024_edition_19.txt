@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_19.txt
  * type: plain-text
- * date: 30_NOVEMBER_2024
+ * date: 01_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -10,7 +10,7 @@ The following list of M_DISC contents encompass the entire collection of public 
 
 As of 11:59PM Pacific Standard Time on 30_DECEMBER_2024 the aforementioned collection of public domain web-based files (named karbytes) has an approximate data size of 15.0 gigabytes (based on the following summation of multiple folder data sizes):
 
-approximate_total_number_of_megabytes_in_karbytes: 14977.8 = 2504.5 + 3413.5 + 1503.7 + 3613.6 + 3942.5
+approximate_total_number_of_megabytes_in_karbytes: 14990.1 = 2516.8 + 3413.5 + 1503.7 + 3613.6 + 3942.5
 
 (Note that each of the additive terms in the equation above is the sum of multiple file sizes (where each file size is expressed either as some positive real number of megabytes or else as some positive real number of kilobytes)).
 
@@ -46,11 +46,11 @@ M_DISC 5 of 5 (disc contains exactly one folder named karbytes_ultra_2024_editio
 
 M_DISC 5 of 5 data collection name: karbytes_ultra_2024_edition_18
 
-M_DISC 5 of 5 data collection size: approximately 2.5 gigabytes
+M_DISC 5 of 5 data collection size: approximately 2.6 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_19: // folder contains exactly 14 files (approximately 2504.5 megabytes total).
+karbytes_ultra_2024_edition_19: // folder contains exactly 15 files (approximately 2516.8 megabytes total).
 
     - KARBYTES_FOR_LIFE_BLOG-main_30december2024.zip // 611.1 kilobytes
 
@@ -78,7 +78,9 @@ karbytes_ultra_2024_edition_19: // folder contains exactly 14 files (approximate
 
     - KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
 
-    - karbytes_basement_n-main.zip // 96.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - karbytes_basement_n-main.zip // 100.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - TEMPLATE_micro_directory-main.zip // 7.9 megabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
