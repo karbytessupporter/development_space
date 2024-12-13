@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_19.txt
  * type: plain-text
- * date: 12_DECEMBER_2024
+ * date: 13_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -52,7 +52,7 @@ M_DISC 5 of 5 data collection size: approximately 2.7 gigabytes
 
 karbytes_ultra_2024_edition_19: // folder contains exactly 15 files (approximately 2626.9 megabytes total).
 
-    - KARBYTES_FOR_LIFE_BLOG-main_30december2024.zip // 611.1 kilobytes
+    - KARBYTES_FOR_LIFE_BLOG-main_30december2024.zip // 611.5 kilobytes
 
     - KARLINA_OBJECT-main.zip // 219.8 megabytes
 
