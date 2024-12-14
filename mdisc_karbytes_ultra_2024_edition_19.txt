@@ -1,16 +1,16 @@
 /**
  * file: mdisc_karbytes_ultra_2024_edition_19.txt
  * type: plain-text
- * date: 13_DECEMBER_2024
+ * date: 14_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 30_DECEMBER_2024 (and that specific file collection is named karbytes2024_0). 
+The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 15_DECEMBER_2024 (and that specific file collection is named karbytes2024_0). 
 
-As of 11:59PM Pacific Standard Time on 30_DECEMBER_2024 the aforementioned collection of public domain web-based files (named karbytes) has an approximate data size of 15.2 gigabytes (based on the following summation of multiple folder data sizes):
+As of 11:59PM Pacific Standard Time on 15_DECEMBER_2024 the aforementioned collection of public domain web-based files (named karbytes) has an approximate data size of 15.2 gigabytes (based on the following summation of multiple folder data sizes):
 
-approximate_total_number_of_megabytes_in_karbytes: 15100.2 = 2626.9 + 3413.5 + 1503.7 + 3613.6 + 3942.5
+approximate_total_number_of_megabytes_in_karbytes: 15110.6 = 2637.3 + 3413.5 + 1503.7 + 3613.6 + 3942.5
 
 (Note that each of the additive terms in the equation above is the sum of multiple file sizes (where each file size is expressed either as some positive real number of megabytes or else as some positive real number of kilobytes)).
 
@@ -34,7 +34,7 @@ Throughout all of karbytes' lifetime, karbytes intends to create at least three 
 
 Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created GitHub repository (which is associated with the GitHub username @karlinarayberinger).
 
-Each zip file which is enumerated on this web page whose file name contains the string "_29november2024" (quotation characters not included) was refers to exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on 29_NOVEMBER_2024. 
+Each zip file which is enumerated on this web page whose file name contains the string "_15december2024" (quotation characters not included) was refers to exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on 15_DECEMBER_2024. 
 
 Each zip file which is enumerated on this web page has exactly one uniquely corresponding "micro directory" web page (in the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com) if and only if that zip file is derived from a public (rather than from a private) GitHub repository. Zip files which are enumerated on this web page and which are downloaded from private GitHub repositories contain the leading characters "karbytes_basement_" (quotations not included).
 
@@ -44,15 +44,15 @@ Finally, each zip file which is referenced on this web page has a file name with
 
 M_DISC 5 of 5 (disc contains exactly one folder named karbytes_ultra_2024_edition_19)
 
-M_DISC 5 of 5 data collection name: karbytes_ultra_2024_edition_18
+M_DISC 5 of 5 data collection name: karbytes_ultra_2024_edition_19
 
 M_DISC 5 of 5 data collection size: approximately 2.7 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes_ultra_2024_edition_19: // folder contains exactly 15 files (approximately 2626.9 megabytes total).
+karbytes_ultra_2024_edition_19: // folder contains exactly 15 files (approximately 2637.3 megabytes total).
 
-    - KARBYTES_FOR_LIFE_BLOG-main_30december2024.zip // 611.5 kilobytes
+    - KARBYTES_FOR_LIFE_BLOG-main_15december2024.zip // 611.5 kilobytes
 
     - KARLINA_OBJECT-main.zip // 219.8 megabytes
 
@@ -70,7 +70,7 @@ karbytes_ultra_2024_edition_19: // folder contains exactly 15 files (approximate
 
     - KARLINA_OBJECT_extension_pack_25-main.zip // 154.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_26-main.zip // 114.1 megabytes
+    - KARLINA_OBJECT_extension_pack_26-main.zip // 124.5 megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
