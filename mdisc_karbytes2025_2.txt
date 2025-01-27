@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately 14 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_2: // folder contains exactly 125 files (approximately 12676.73 megabytes total).
+karbytes2025_2: // folder contains exactly 125 files (approximately 12691.17 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -256,7 +256,7 @@ karbytes2025_2: // folder contains exactly 125 files (approximately 12676.73 meg
 
     - zip_file_108: KARLINA_OBJECT_extension_pack_27-main.zip // 398.8 megabytes
 
-    - zip_file_109: KARLINA_OBJECT_extension_pack_28-main_01february2025.zip // 838.7 megabytes
+    - zip_file_109: KARLINA_OBJECT_extension_pack_28-main_01february2025.zip // 853.8 megabytes
 
     - zip_file_110: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
