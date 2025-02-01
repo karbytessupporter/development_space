@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2025_3.txt
  * type: plain-text
- * date: 31_JANUARY_2025
+ * date: 01_FEBRUARY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately 14 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_3: // folder contains exactly 126 files (approximately 12870.01 megabytes total).
+karbytes2025_3: // folder contains exactly 126 files (approximately 13028.39 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -258,7 +258,7 @@ karbytes2025_3: // folder contains exactly 126 files (approximately 12870.01 meg
 
     - zip_file_109: KARLINA_OBJECT_extension_pack_28-main.zip // 853.8 megabytes
 
-    - zip_file_110: KARLINA_OBJECT_extension_pack_29-main_[undefined_day].zip // 187.5 megabytes
+    - zip_file_110: KARLINA_OBJECT_extension_pack_29-main_[undefined_day].zip // 189.0 megabytes
 
     - zip_file_111: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
@@ -288,7 +288,7 @@ karbytes2025_3: // folder contains exactly 126 files (approximately 12870.01 meg
 
     - zip_file_124: KARLINA_OBJECT_APPS-main.zip // 24.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_125: KARBYTES_BLOG_APPS-main_[undefined_day].zip // 24.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_125: KARBYTES_BLOG_APPS-main_[undefined_day].zip // 189.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
