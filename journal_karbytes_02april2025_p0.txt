@@ -1,0 +1,27 @@
+/**
+ * file: journal_karbytes_02april2025_p0.txt
+ * type: plain-text
+ * date: 02_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+On 31_MARCH_2025 between the hours of 6:00PM Pacific Standard Time and 10:00PM Pacific Standard Time, karbytes had the following thoughts (which are represented in this plain-text note file as a dialogue between karbytes_0 and karbytes_1).
+
+(temporary URL for this file's safekeeping: https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_02april2025_p0.txt)
+
+* * *
+
+karbytes_0: "Within the past 24 hours I saw a moth fly straight into the flame of a candle, somersault into the pool of melted candle wax surrounding the ignited wick, and apparently cook to death or drown. I also recently alluded to an instance of a mouse which was apparently tortured and then killed by my cat while talking to ChatGPT-4o earlier today about cats (in the plain-text note file named chatgpt_karbytes_02april2025_p0.txt). Then I thought about a hypothetical situation in which I am an immortal being who goes through infinitely many reincarnations one at a time (and I go through every incarnation that ever exists (including the moth and mouse I alluded to earlier in this paragraph))."
+
+karbytes_1: "In that hypothetical situation, are you the only being who goes through every incarnation and infinitely many incarnations or are there other people who also go through every incarnation and infinitely many incarnations?"
+
+karbytes_0: "Yes. Everyone else in that situation only lives as itself and only for one incarnation total."
+
+karbytes_1: "Do you consider having to experience every incarnation (including the painful ones you alluded to (in addition to all other instances of suffering and satisfaction)) a price you pay in order to attain immortality?"
+
+karbytes_0: "I have not really thought about that. The hypothetical situation I am referring to is not very developed in my mind at this time."
+
+karbytes_1: "Do you consider yourself to be some kind of god in that hypothetical situation?"
+
+karbytes_0: "To some extent, yes, but I really do not think of myself in that situation as being particularly godlike in the traditional sense of God being singular (i.e. peerless), omnipotent (i.e. can will whatever it wants into existence), omniscient (i.e. aware of every perspective in every moment simultaneously and continuously), and omnipresent (i.e. spanning all of space, time, matter, and energy). Instead, I see myself in that situation as always being localized to exactly one frame of reference and one information processing agent at a time (rather than inhabiting multiple frames of reference or multiple information processing agents simultaneously). Overall, if you add up all the information processing instances into one summation object, it could be said that the summation object is literally a representation of all that I (accidentally) willed into existence as the singular godhead dreaming up all of reality (which is a variation of panpsychism)."

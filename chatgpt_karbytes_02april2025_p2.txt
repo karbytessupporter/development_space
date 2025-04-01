@@ -1,0 +1,73 @@
+/**
+ * file: chatgpt_karbytes_02april2025_p2.txt
+ * type: plain-text
+ * date: 02_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place on 01_APRIL_2025 between the hours of 10:00AM Pacific Standard Time and 3:00PM Pacific Standard Time. The conversation pertains to karbytes inquiring ChatGPT about the possibility of setting up a website hosted via GitHub which karbytes could use as an alternative to Google's Blogspot platform to host files which karbytes wants to back up to the WayBack Machine before those files are officially added to the karbytes file collection (encompassed by the websites named Karlina Object dot WordPress dot Com (at: https://karlinaobject.wordpress.com/) and Karbytes For Life Blog dot WordPress dot Com (at: https://karbytesforlifeblog.wordpress.com/)).
+
+(Note that karbytes used the dictation feature which is part of the mobile ChatGPT (Android) app to translate karbytes' spoken words to text (and after that feature stopped enabling users to review and edit their dictated words before submitting them to ChatGPT)).
+
+(Temporary Uniform Resource Locator (URL) for this file before it is officially added to karbytes: https://raw.githubusercontent.com/karbytessupporter/development_space/main/chatgpt_karbytes_02april2025_p2.txt)
+
+* * *
+
+karbytes:
+
+Does GitHub allow you to create websites that are hosted from GitHub?
+
+ChatGPT:
+
+Yes, GitHub allows you to create and host websites directly from its platform using a feature called GitHub Pages. This service enables you to publish static websites—comprising HTML, CSS, and JavaScript files—directly from a repository on GitHub. It's commonly used for personal blogs, project documentation, and portfolios.
+
+To set up a GitHub Pages site, you can either create a new repository or use an existing one. For a personal user site, the repository should be named username.github.io, where username is your GitHub username. Once the repository is set up, you can add your website files and configure the publishing source through the repository's settings. Detailed instructions are available in GitHub's official documentation. 
+
+GitHub Pages supports the use of Jekyll, a static site generator that integrates seamlessly with GitHub Pages, allowing for more complex site generation and theming. However, it's important to note that GitHub Pages is intended for hosting static content and is not suitable for dynamic websites that require server-side processing. Additionally, GitHub Pages is not intended for or allowed to be used as a free web-hosting service for running online businesses, e-commerce sites, or any other website primarily directed at facilitating commercial transactions or providing commercial software as a service (SaaS). 
+
+For a visual guide on how to host a website on GitHub Pages, you might find the following video helpful:
+
+[https://www.youtube.com/watch?v=OltY8JIaP-4]
+
+karbytes:
+
+I noticed that the dictation feature in ChatGPT has changed since yesterday.
+
+ChatGPT:
+
+Yes, you've observed correctly. ChatGPT's dictation feature has recently undergone changes that have affected user interaction. Previously, users could dictate messages, review the transcribed text, make edits, and then send it. Now, the behavior has shifted to an immediate-send model, where dictated messages are sent automatically upon releasing the microphone button, without displaying the transcribed text for review. This change has been noted by several users in the OpenAI community forums. 
+
+Many users have expressed concerns about this update, highlighting the loss of the ability to review and edit transcriptions before sending as a significant usability regression. Discussions in the OpenAI Developer Community have raised these issues, emphasizing the need for a more user-friendly approach. 
+
+OpenAI has been actively updating ChatGPT's voice capabilities, aiming to enhance real-time conversations and responsiveness. These updates include features like reduced interruptions during pauses and faster response generation. However, these changes have also led to the removal of certain functionalities, such as the separate microphone button on the iPad app, which previously allowed users to dictate text at their own pace and edit incrementally. 
+
+While these updates aim to improve the overall user experience, they have introduced challenges for users who relied on the previous dictation workflow. OpenAI has not yet provided specific guidance on addressing these concerns, but user feedback is being actively discussed in their forums. It's advisable to stay updated through official OpenAI channels for any announcements regarding further adjustments or enhancements to the dictation feature.
+
+karbytes:
+
+I honestly don't like that change, because I like seeing people to make edits to what I'm submitting. It could be that what I'm saying is mistranslated for instance.
+
+ChatGPT:
+
+That makes total sense—and you’re not alone. Many users feel the same way. Losing the ability to review and edit dictated text before it’s sent can lead to misunderstandings, especially when voice-to-text gets something wrong (which it often does). That review step gave a sense of control, clarity, and intentionality—especially when precision matters.
+
+Would you like help drafting a feedback message to OpenAI about this? I can also suggest workarounds if you're trying to preserve that ability in your workflow.
+
+karbytes:
+
+I appreciate your assistance, but I doubt that I would be able to change their mind about this.
+
+ChatGPT:
+
+Totally fair—and probably wise to keep expectations grounded. Still, your perspective is valid and shared by others, so even if it doesn’t reverse the change, submitting feedback adds weight to the issue. Companies sometimes do listen when patterns emerge.
+
+In the meantime, I can help you brainstorm ways to adapt—like using a separate transcription app or note-taking tool with editing support before copying your text here. Or we can just roll with things as they are and find creative workarounds together. Whatever suits your flow best.
+
+karbytes:
+
+Thanks, ChatGPT. If need be, I'll just type things if I really am concerned about accuracy.
+
+ChatGPT:
+
+That sounds like a solid plan. Typing gives you that extra bit of precision and control when it counts. And hey, if you ever want to bounce between voice and text—or need help untangling a messy transcription—I’ve got your back. Thanks for keeping me in the loop!
