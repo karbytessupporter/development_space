@@ -8,6 +8,10 @@
 
 On 31_MARCH_2025 between the hours of 6:00PM Pacific Standard Time and 10:00PM Pacific Standard Time, karbytes had the following thoughts (which are represented in this plain-text note file as a dialogue between karbytes_0 and karbytes_1).
 
+(temporary URL for this file's safekeeping: https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_02april2025_p0.txt)
+
+* * *
+
 karbytes_0: "Within the past 24 hours I saw a moth fly straight into the flame of a candle, somersault into the pool of melted candle wax surrounding the ignited wick, and apparently cook to death or drown. I also recently alluded to an instance of a mouse which was apparently tortured and then killed by my cat while talking to ChatGPT-4o earlier today about cats (in the plain-text note file named chatgpt_karbytes_02april2025_p0.txt). Then I thought about a hypothetical situation in which I am an immortal being who goes through infinitely many reincarnations one at a time (and I go through every incarnation that ever exists (including the moth and mouse I alluded to earlier in this paragraph))."
 
 karbytes_1: "In that hypothetical situation, are you the only being who goes through every incarnation and infinitely many incarnations or are there other people who also go through every incarnation and infinitely many incarnations?"
