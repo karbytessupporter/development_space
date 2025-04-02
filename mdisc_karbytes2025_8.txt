@@ -12,7 +12,7 @@ Throughout all of karbytes' lifetime, karbytes intends to create at least three 
 
 That entire aforementioned file collection named karbytes2025_8 is too large to fit on one 4.7 gigabyte M_DISC but small enough to fit on one 25 gigabyte M_DISC.
 
-The total number of megabytes in the folder named karbytes2025_8 (which contains exclusively 134 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
+The total number of megabytes in the folder named karbytes2025_8 (which contains exclusively 135 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
 
 https://karbytesforlifeblog.wordpress.com/print_folder_contents
 
@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately 16 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_8: // folder contains exactly 134 files (approximately 14393.42 megabytes total).
+karbytes2025_8: // folder contains exactly 135 files (approximately 14439.22 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -90,7 +90,7 @@ karbytes2025_8: // folder contains exactly 134 files (approximately 14393.42 meg
 
     - zip_file_25: KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - zip_file_26: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 618.4 kilobytes
+    - zip_file_26: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 618.1 kilobytes
 
     - zip_file_27: KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
@@ -276,7 +276,7 @@ karbytes2025_8: // folder contains exactly 134 files (approximately 14393.42 meg
 
     - zip_file_117: KARLINA_OBJECT_extension_pack_34-main.zip // 887.0 megabytes
 
-    - zip_file_118: KARLINA_OBJECT_extension_pack_35-main_[undefined_day].zip // 25.0 megabytes
+    - zip_file_118: KARLINA_OBJECT_extension_pack_35-main_[undefined_day].zip // 25.7 megabytes
 
     - zip_file_119: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
@@ -307,6 +307,8 @@ karbytes2025_8: // folder contains exactly 134 files (approximately 14393.42 meg
     - zip_file_132: KARLINA_OBJECT_APPS-main.zip // 24.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
     - zip_file_133: KARBYTES_BLOG_APPS-main_[undefined_day].zip // 386.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+
+    - zip_file_134: karbytes_test_github_hosted_website-main_[undefined_day].zip // 23.6  megabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
