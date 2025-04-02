@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2025_8.txt
  * type: plain-text
- * date: 30_MARCH_2025
+ * date: 02_APRIL_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -276,7 +276,7 @@ karbytes2025_8: // folder contains exactly 134 files (approximately 14393.42 meg
 
     - zip_file_117: KARLINA_OBJECT_extension_pack_34-main.zip // 887.0 megabytes
 
-    - zip_file_118: KARLINA_OBJECT_extension_pack_35-main_[undefined_day].zip // 1.3 megabytes
+    - zip_file_118: KARLINA_OBJECT_extension_pack_35-main_[undefined_day].zip // 25.0 megabytes
 
     - zip_file_119: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
