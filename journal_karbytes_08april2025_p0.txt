@@ -1,0 +1,32 @@
+/**
+ * file: journal_karbytes_08april2025_p0.txt
+ * type: plain-text
+ * date: 08_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+(temporary URL for this file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_08april2025_p0.txt)
+
+* * *
+
+(temporary URL for an image file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/glass_dildo_set_karbytes_curated_08april2025.jpg)
+
+(temporary URL for an image file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/mdisc_karbytes07april2025_local_hard_copies.jpg)
+
+* * *
+
+karbytes_0: "Any object, X, matters if X is deemed to exist (in the form of observed qualia and as a relatively stable information pattern) by at least one person (i.e. observing frame of reference (presumably rendered by a discrete piece of information processing hardware)), Y."
+
+karbytes_1: "An interpretation or alternative to what karbytes_0 said is as follows: Any object, X, has value and hence deserves to keep existing due to the fact that at least person, Y, deems that object to be worthwhile in Y's experience (and Y wants X to continue existing for an indefinitely and perhaps infinitely long time (or for at least as long as Y continues to exist after Y starts to become aware of X))."
+
+karbytes: "Any object, X, has value at the exact moment some information processing agent, Y, renders X as a component of the virtual reality Y imagines and experiences as the literal interface between Y and all of nature."
+
+* * *
+
+glass_dildos_set_karbytes_curated(08_APRIL_2025).names := {
+  { glass_dildos_set_karbytes_curated(08_APRIL_2025).names[0] := "The Valentine's Gift". }, // red, spiral, wavy
+  { glass_dildos_set_karbytes_curated(08_APRIL_2025).names[1] := "The Blue Wave".}, // blue, spiral, ridged
+  { glass_dildos_set_karbytes_curated(08_APRIL_2025).names[2] := "The Limousine Pill".}, // clear, straight, smooth
+  { glass_dildos_set_karbytes_curated(08_APRIL_2025).names[3] := "The Filler".}, // clear, straight, nubby
+}.
