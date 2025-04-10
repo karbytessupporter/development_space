@@ -1,0 +1,17 @@
+/**
+ * file: journal_karbytes_10april2025_p1.txt
+ * type: plain-text
+ * date: 10_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following news articles seem relevant to my interests:
+
+article_0: https://singularityhub.com/2025/03/18/researchers-bend-sound-through-space-so-it-reaches-only-your-ear-in-a-crowd/
+
+article_1: https://singularityhub.com/2025/04/10/our-conscious-perception-of-the-world-depends-on-this-deep-brain-structure/
+
+* * *
+
+(temporary URL for this file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_10april2025_p1.txt)
