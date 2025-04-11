@@ -1,0 +1,17 @@
+/**
+ * file: journal_karbytes_10april2025_p0.txt
+ * type: plain-text
+ * date: 10_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The only thing I dispute having happened in the report apparently filed by SED (which is referred to by this plain-text journal entry) is me defecating in the backyard and playing ding dong ditch (i.e. ringing the doorbell and then running away before anyone has a chance to answer the door).
+
+web_page_depicted_by_screenshot: https://trellis.law/doc/158255223/ch-100-request-for-civil-harassment-restraining-order-filed-by-spencer-eugene-dyer-petitioner-as-to-karlina-ray-beringer-respondent-document
+
+screenshot_image:  https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_35/main/tor_search_result_when_looking_up_karlina_beringer_10april2025.png
+
+* * *
+
+(temporary URL for this file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_10april2025_p0.txt)
