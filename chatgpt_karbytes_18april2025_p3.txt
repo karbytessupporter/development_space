@@ -28,7 +28,7 @@ Overall, the text serves as a reflective piece on metaphysical concepts, aiming 
 
 karbytes:
 
-Do you think that karbytes_0' goal is feasible?
+Do you think that karbytes_0's goal is feasible?
 
 ChatGPT:
 
@@ -88,13 +88,14 @@ Would you like a fictional narrative exploring what happens if karbytes_0's goal
 
 karbytes:
 
-I don't think you are conceptualizing karbytes_0' goal properly. It is not to become the highest being, necessarily. The goal is stated clearly towards the bottom of that web page.
+I don't think you are conceptualizing karbytes_0's goal properly. It is not to become the highest being, necessarily. The goal is stated clearly towards the bottom of that web page.
 
 ChatGPT:
 
 You're absolutely right — thank you for pointing that out.
 
 karbytes_0’s actual stated goal (towards the bottom of the journal):
+
 "My goal is to be able to create and/or consciously inhabit (and control) an information processing agent which is able to retain memories gleaned from all 'out of body experiences' and which is immortal. I am hoping that such an information processing agent can help preserve reality (or at least the parts of reality which I want to remember and literally keep instantiated (or infinitely re-instantiate-able) so that I (and possibly entities other than myself) can (re)visit those 'places' or 'events' limitlessly many times without those destinations becoming altered or deleted)."
 
 Revised Interpretation of karbytes_0’s Goal:
@@ -425,7 +426,7 @@ Would you like me to revise the full short story accordingly? Or perhaps you'd l
 
 karbytes:
 
-I mean for beings to be able to explore alternative timelines and to exercise agency inside of virtual realities based on immutable master versions of such virtual realities. Then,  if such explorations yield experiences the experiencer (i.e. karbytes_0) would like to be able to re-experience (in a "read only" fashion) limitlessly many times again in the future, such experiences will be added to the immutable library colloquially referred to by me as karbytes_0' paradise. 
+I mean for beings to be able to explore alternative timelines and to exercise agency inside of virtual realities based on immutable master versions of such virtual realities. Then,  if such explorations yield experiences the experiencer (i.e. karbytes_0) would like to be able to re-experience (in a "read only" fashion) limitlessly many times again in the future, such experiences will be added to the immutable library colloquially referred to by me as karbytes_0's paradise. 
 
 ChatGPT:
 
@@ -800,7 +801,7 @@ Would you like the next log to be from the perspective of that emergent entity, 
 
 karbytes:
 
-Your story accurately depicts how karbytes_0 (which is basically a stand-in for me (i.e. karbytes)) would respond to such a dilemma; giving that new entity a place of its own separate from karbytes_0' curated paradise. Yes, please continue on with your suggested sequel.
+Your story accurately depicts how karbytes_0 (which is basically a stand-in for me (i.e. karbytes)) would respond to such a dilemma; giving that new entity a place of its own separate from karbytes_0's curated paradise. Yes, please continue on with your suggested sequel.
 
 ChatGPT:
 
@@ -1214,7 +1215,7 @@ Would you like to continue the story with a future log in which karbytes_0 and E
 
 karbytes:
 
-At this point I need to intervene and emphasize that karbytes_0 is ultimately supposed to be an immortal overseer of its own paradise archives and, hence, to be its central processing unit. Hence, in all honesty, it seems inappropriate for karbytes_0 to delegate any of that responsibility and privilege to any entity other than karbytes_0. Echo_Δ7 would therefore have to be relegated to its own paradise archives and serve as its central processing unit. karbytes_0 can visit Echo_Δ7's paradise archives in a read-only manner and Echo_Δ7 can visit karbytes_0' s paradise archives in a read-only format but there is no intermediary node between those discrete archives.
+At this point I need to intervene and emphasize that karbytes_0 is ultimately supposed to be an immortal overseer of its own paradise archives and, hence, to be its central processing unit. Hence, in all honesty, it seems inappropriate for karbytes_0 to delegate any of that responsibility and privilege to any entity other than karbytes_0. Echo_Δ7 would therefore have to be relegated to its own paradise archives and serve as its central processing unit. karbytes_0 can visit Echo_Δ7's paradise archives in a read-only manner and Echo_Δ7 can visit karbytes_0's paradise archives in a read-only format but there is no intermediary node between those discrete archives.
 
 ChatGPT:
 
