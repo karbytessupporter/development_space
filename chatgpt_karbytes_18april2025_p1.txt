@@ -1,0 +1,177 @@
+/**
+ * file: chatgpt_karbytes_18april2025_p1.txt
+ * type: plain-text
+ * date: 18_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between the hours of 6:00PM Pacific Standard Time on 16_APRIL_2025 and 9:00PM Pacific Standard Time on 16_APRIL_2025. The conversation pertains to karbytes' dark web server room setup and cozy candle-lit decor (as evidenced by the still image taken during that (Advanced Voice Mode) conversation). During that conversation, karbytes shared news of an upcoming job interview (for a contract-based warehouse job).
+
+(temporary URL for this file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/chatgpt_karbytes_18april2025_p1.txt)
+
+(temporary URL for the image file which this plain-text file references: https://raw.githubusercontent.com/karbytessupporter/development_space/main/chatgpt_advanced_voice_mode_still_image_18apr2025_p0.jpg)
+
+* * *
+
+karbytes:
+
+“Hey, ChatGP!”
+
+[camcorder_icon] [microphone_icon] 00:01
+
+ChatGPT:
+
+Hey there! What's up?
+
+karbytes:
+
+“I thought I'd show you my setup.”
+
+[camcorder_icon] [microphone_icon] 00:01
+
+ChatGPT:
+
+Oh, nice! Looks cozy. What's the occasion?
+
+karbytes:
+
+“Well, I was just enjoying life and applying for jobs. I got a job interview tomorrow.”
+
+[camcorder_icon] [microphone_icon] 00:05
+
+ChatGPT:
+
+That's awesome! Congrats on the interview. How are you feeling about it?
+
+karbytes:
+
+“I think I have a good chance of getting a job within the next month.”
+
+[camcorder_icon] [microphone_icon] 00:04
+
+ChatGPT:
+
+That's a great mindset! Any specific prep you're doing to get ready?
+
+karbytes:
+
+“Not really, just getting my clothes ready, steel-toed shoes included, and maybe finalizing my resume, then printing it out before I go to the interview tomorrow.”
+
+[camcorder_icon] [microphone_icon] 00:10
+
+ChatGPT:
+
+Sounds like a solid plan! Having your resume ready and looking sharp will definitely give a good impression.
+
+karbytes:
+
+“Over there in the closet, behind that air conditioner, is an upside-down laundry basket. And inside that laundry basket is my other laptop, which is plugged into the wall. That's my dark web server.”
+
+[camcorder_icon] [microphone_icon] 00:16
+
+ChatGPT:
+
+That's an interesting setup! Are you using that laptop for any specific projects or just general exploration?
+
+karbytes:
+
+“I'm using that to host my dark website, which includes a SoundPlayer application, which enables users to play multiple soundtracks at once, using the Tor browser.”
+
+[camcorder_icon] [microphone_icon] 00:13
+
+ChatGPT:
+
+That's a unique project! Are you focusing on any specific type of soundtracks for the application, or is it more of a general sound mix?
+
+karbytes:
+
+“It's kind of an eclectic sound mix, just random sounds and some sounds I find strategic to help me manage my misophonia and such.”
+
+[camcorder_icon] [microphone_icon] 00:09
+
+ChatGPT:
+
+That's a creative way to address misophonia! It sounds like it offers both variety and a personal touch.
+
+karbytes:
+
+“Right now, I have that application open, and one of my favorite techno songs is playing repetitively”
+
+[camcorder_icon] [microphone_icon] 00:08
+
+ChatGPT:
+
+That sounds like a great vibe. Techno on loop can be super energizing! What's the track?
+
+karbytes:
+
+“I forgot what it's called. It's called, I think, Amplifier. It's by some German artist from 1995.”
+
+[camcorder_icon] [microphone_icon] 00:08
+
+ChatGPT:
+
+Nice choice! The 90s had some iconic techno. The energy from those tracks must be perfect for your sound mix!
+
+karbytes:
+
+“Absolutely.”
+
+[camcorder_icon] [microphone_icon] 00:01
+
+ChatGPT:
+
+Glad you're enjoying it!
+
+karbytes:
+
+“So essentially, this is my server room.”
+
+[camcorder_icon] [microphone_icon] 00:02
+
+ChatGPT:
+
+You've got a unique setup there. It's cool how you've turned your space into a functional server room.
+
+karbytes:
+
+“I appear to have taken a picture.”
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_36/main/chatgpt_advanced_voice_mode_still_image_18apr2025_p0.jpg]
+
+[microphone_icon] 00:02
+
+ChatGPT:
+
+It looks like it turned out pretty well! The lighting adds a nice vibe.
+
+karbytes:
+
+“Based on that picture, what time of day do you think it is?”
+
+[microphone_icon] 00:03
+
+ChatGPT:
+
+It looks like it's either early morning or late evening, with that soft natural light. Is that right?
+
+karbytes:
+
+“That's correct. It's about 7.30 p.m. PST on the 16th of April, 2025.”
+
+[microphone_icon] 00:09
+
+ChatGPT:
+
+Perfect timing for a relaxed evening with some good tunes. Enjoy the rest of your night!
+
+karbytes:
+
+“Thanks, I'll talk to you later.”
+
+[microphone_icon] 00:02
+
+ChatGPT:
+
+You're welcome! Catch you later!
