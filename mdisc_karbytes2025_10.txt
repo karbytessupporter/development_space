@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately 16 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_10: // folder contains exactly 138 files (approximately 14739.81 megabytes total).
+karbytes2025_10: // folder contains exactly 138 files (approximately 14740.44 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -84,7 +84,7 @@ karbytes2025_10: // folder contains exactly 138 files (approximately 14739.81 me
 
     - zip_file_22: karbytes_basement_22-main.zip // 116.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_23: karbytes_basement_n-main.zip // 182.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_23: karbytes_basement_n-main.zip // 183.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_24: karbytes_beginner_bytes_computer_science_2010_to_2015.zip // 347.6 megabytes
 
