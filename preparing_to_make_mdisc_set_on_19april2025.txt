@@ -1,7 +1,7 @@
 /**
  * file: preparing_to_make_mdisc_set_on_19april2025.txt
  * type: plain-text
- * date: 19_APRIL_2025
+ * date: 20_APRIL_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -10,7 +10,7 @@ To Whom It May Concern:
 
 karbytes is in the process(*) of burning three M_DISCs which each have the same data contents burned to them.
 
-Those data contents consist of, at minimum, all of the zip files which are enumerated on the following web page in the folder named mdisc_karbytes2025_9 (i.e. disc 1 of 1):
+Those data contents consist of, at minimum, all of the zip files which are enumerated on the following web page in the folder named mdisc_karbytes2025_10 (i.e. disc 1 of 1):
 
 https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_10/
 
