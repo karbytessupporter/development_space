@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2025_9.txt
  * type: plain-text
- * date: 20_APRIL_2025
+ * date: 21_APRIL_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately 16 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_9: // folder contains exactly 138 files (approximately 14740.46 megabytes total).
+karbytes2025_9: // folder contains exactly 138 files (approximately 14744.02 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -84,7 +84,7 @@ karbytes2025_9: // folder contains exactly 138 files (approximately 14740.46 meg
 
     - zip_file_22: karbytes_basement_22-main.zip // 116.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_23: karbytes_basement_n-main.zip // 183.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_23: karbytes_basement_n-main.zip // 183.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_24: karbytes_beginner_bytes_computer_science_2010_to_2015.zip // 347.6 megabytes
 
@@ -278,7 +278,7 @@ karbytes2025_9: // folder contains exactly 138 files (approximately 14740.46 meg
 
     - zip_file_118: KARLINA_OBJECT_extension_pack_35-main.zip // 254.5 megabytes
 
-    - zip_file_119: KARLINA_OBJECT_extension_pack_36-main.zip // 8.4 megabytes
+    - zip_file_119: KARLINA_OBJECT_extension_pack_36-main.zip // 12.0 megabytes
 
     - zip_file_120: KARLINA_OBJECT_extension_pack_37-main_21april2025.zip // 2.0 megabytes
 
