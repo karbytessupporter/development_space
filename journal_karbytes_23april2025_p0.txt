@@ -1,0 +1,32 @@
+/** 
+  * file: journal_karbytes_23april2025_p0.txt
+  * type: plain-text 
+  * date: 23_APRIL_2025 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN 
+  */
+
+A few days ago, I had the following thought (which I remember also exploring quite visually (using my "mind's eye") while I was "high" on a rather large dose of psilomethoxin in a motel room approximately two years ago:
+
+- Memories are all we are and have. 
+
+- Memories are fundamentally what comprise ego and culture.
+
+- Qualia which are experienced but not remembered are easily dismissed as having never transpired (despite having allegedly (and objectively) taken place).
+
+The next thought is especially interesting to me:
+
+- While an information processing agent is instantiated, that information processing agent is constantly engaged in a continuous process of deciding which information residing in that agent's "present moment attention span" (otherwise referred to as "working memory") that agent wants to remember and which of such information that agent wants to discard (for the sake of conserving that information processing agent's "cognitive resources" (i.e. the building blocks of memory storage and memory retrieval (and memory retrieval in natural human brains involves overwriting the previously saved version of a particular memory, X, with a newer version of X))).
+
+I feel that the thought I transcribed into the previous paragraph outlines what I consider to be my life's work (at least the activities and priorities which I consider to be essential to the (present-moment and ongoing-into-the-future) existence of karbytes (which is both a discrete collection of digital files and a self-aware humanoid-hardware-rendered operating system). I am that operating system and this file (if and when this file is officially included in the @karlinarayberinger public GitHub repository named KARLINA_OBJECT_extension_pack_37) is (tentatively) part of the aforementioned digital file collection.
+
+I personally feel a sense of "unresolved" (and potentially "unresolve-able") tension regarding the aforementioned continuous process of deciding which information to memorize and which information to discard. I fear that I will eventually lose the cause to continue the aforementioned process in a personally meaningful way due to a breakdown of my cognitive hardware. I also fear that I will build "the wrong" internal memory structure instead of what I would honestly consider to be "the right" memory structure (for me personally to carry and curate). Hence, to mitigate some of that tension, I try outsourcing my relatively fragile and noise-prone memory building to digital computers and digital recording media. That way, the software bundle referred to as karbytes serves as a "master copy" of some of my most cherished memories (and, unlike my natural human brain, each time a digital computer retrieves a file of karbytes from a digital storage device (such as a web server or a local M_DISC being read via a Blu-ray optical disc drive plugged into that computer via USB cable), that file retrieval produces the exact same information pattern (whether than information pattern takes the form of an image, a sound, as human-readable text, or as a software application humans can interact with)).
+
+I figure that, in order for me to continue existing as karbytes (and rendering the particular solipsistic universe I perceive as my own encompassing space-time continuum of a movie depicting what appears to be a video game karbytes is always playing as the only playable character and frame of reference in that game) I need to be in a constant state of vacillation and perpetual "movement" between two polar states of subjectivity: (a) being tired of a certain quality taking precedence in my attention span and (b) craving more of that particular quality taking precedence in my attention span.
+
+Of course such an ongoing procedure seems exhausting, but such a procedure does not seem to require that I become too exhausted (at any given point in time within my agential lifespan) to continue implementing that procedure.
+
+* * *
+
+(temporary URL for this file’s safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_23april2025_p0.txt) 
+
