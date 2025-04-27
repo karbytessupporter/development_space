@@ -1,0 +1,61 @@
+/**
+ * file: journal_karbytes_27april2025_p0.txt
+ * type: plain-text
+ * date: 27_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+This plain-text journal entry is a consolidation of what is discussed in the following predecessor plain-text files:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/journal_karbytes_26april2025_p0.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/journal_karbytes_26april2025_p1.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/chatgpt_karbytes_26april2025_p1.txt
+
+(temporary URL for this file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_27april2025_p0.txt)
+
+* * *
+
+Within the context of karbytes 
+
+(which is 
+
+(a) the entire collection of publicly-accessible web-hosted files 
+
+comprising the website whose Uniform Resource Locator is 
+
+https://karlinaobject.wordpress.com/
+
+and
+
+(b) the entire collection of publicly-accessible web-hosted files 
+
+comprising the website whose Uniform Resource Locator is 
+
+https://karbytesforlifeblog.wordpress.com/) 
+
+and in pertinence to a specific file within karbytes, 
+
+the term "green" implies 
+
+"that which pertains to the subject matter which is showcased in the website whose top-level web page is located at the following Uniform Resource Locator: https://karlinaobject.wordpress.com/"
+
+while
+
+the term "purple" implies 
+
+"that which pertains to the subject matter which is showcased in the website section whose top-level web page is located at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/box_of_gems/".
+
+In summary,
+
+the term "green" implies 
+
+"that which takes the form of computer-executable code (such as a Python source code file (e.g. print_folder_contents.py)) or which closely resembles computer-executable code (such as a list of terms and uniquely-corresponding definitions which exhibits roughly the same degree of mathematical and logical precision as what a piece of computer-executable code exhibits"
+
+while
+
+the term "purple" implies
+
+"that which does not meet the criteria for green".
