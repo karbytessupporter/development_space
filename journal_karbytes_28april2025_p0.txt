@@ -1,10 +1,10 @@
 /**
-  * file: journal_karbytes_28april2025_p0.txt
-  * type: plain-text
-  * date: 28_APRIL_2025
-  * author: karbytes
-  * license: PUBLIC_DOMAIN
-  */
+ * file: journal_karbytes_28april2025_p0.txt
+ * type: plain-text
+ * date: 28_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 anonymous: "I only love a being if that being seems to me to adequately love me or if that being is an object which I cherish."
 
