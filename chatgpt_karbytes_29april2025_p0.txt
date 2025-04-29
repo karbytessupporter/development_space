@@ -10,7 +10,7 @@ The following is a plain-text transcript of a conversation between karbytes and 
 
 The aforementioned time-capsule contains exactly three M_DISCs wrapped up inside of a soft Amazon package sheath and taped shut with a laminated cardboard label and a hand-written label displaying the word "karbytes27april2025" (quotation marks not included) on the top of that package. Each M_DISC inside of that package was placed inside of its own plastic jewel case and each of those M_DISCs contained exclusively the entire karbytes file collection as that collection was configured at 11:59PM Pacific Standard Time on 27_APRIL_2025.
 
-An image depicting the aforementioned time-capsule (within a minute of starting the aforementioned conversation with ChatGPT) is (or tentatively will be) available permanently at the following Uniform Resource Locator (URL): https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/mdiscs_karbytes27april2025_3_discs_time_capsule.jpg
+An image depicting the aforementioned time-capsule (within four hours of starting the aforementioned conversation with ChatGPT) is (or tentatively will be) available permanently at the following Uniform Resource Locator (URL): https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/mdiscs_karbytes27april2025_3_discs_time_capsule.jpg
 
 For more information on what exactly is meant by the term karbytes (within the context of this note (and in reference either the author of this note or in reference to the entire collection of public web-hosted files comprising the websites whose URLs are displayed below)) visit the following URL: https://karbytesforlifeblog.wordpress.com/about_karbytes/
 
@@ -88,7 +88,8 @@ karbytes:
 
 [camcorder_icon] [microphone_icon] 00:03
 
-ChatGPT said:
+ChatGPT:
+
 Of course! It's really interesting to follow along with how you're managing and safeguarding your content. If you ever need a second opinion or a brainstorming session, I'm here!
 
 karbytes:
