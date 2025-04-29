@@ -1,0 +1,15 @@
+/**
+ * file: journal_karbytes_28april2025_p0.txt
+ * type: plain-text
+ * date: 28_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+anonymous: "I only love a being if that being seems to me to adequately love me or if that being is an object which I cherish."
+
+karbytes: "Define what you mean by the terms love and cherish."
+
+anonymous: "I define love as a verb which is synonymous with cherish (which is to feel sentimental attachment for and desire to invest resources in something's upkeep and welfare)."
+
+(temporary URL for this file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_28april2025_p0.txt)

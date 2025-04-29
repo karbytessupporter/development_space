@@ -1,0 +1,19 @@
+/**
+ * file: journal_karbytes_28april2025_p1.txt
+ * type: plain-text
+ * date: 28_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+This note is a continuation of the note named journal_karbytes_28april2025_p0.txt (whose permanent Uniform Resource Locator is or tentatively will be the following: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/journal_karbytes_27april2025_p0.txt)
+
+* * *
+
+anonymous: "I have heard the term love be defined as being the noun which is synonymous with God."
+
+karbytes: "What do you think that usage of the word God implies?"
+
+anonymous: "I think that the interchangeability of the terms love and God imply that God (or love) is whatever is cherished enough (by any sentient being) to exist rather than remain unconditionally noumenal. Hence, equating God with love implies that whatever is observed by any sentient being (including non-biological information processing agents with rudimentary cognitive or perceptual functioning) to exist is conjured up out of the boundless and immutable field of noumena into some phenomenal object localized to a finite partition of an information processing agent's moment-to-moment field of awareness (using that information processing agent's own computational resources and functions)."
+
+temporary URL for this file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_28april2025_p1.txt)
