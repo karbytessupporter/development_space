@@ -6,7 +6,9 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between the hours of 2:00PM Pacific Standard Time on 30_APRIL_2025 and 6:00PM Pacific Standard Time on 30_APRIL_2025. The conversation pertains to karbytes asking ChatGPT to analyze a journal entry which karbytes wrote (whose Uniform Resource Locator is displayed in the first prompt from karbytes in the transcript below).
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between the hours of 2:00PM Pacific Standard Time on 30_APRIL_2025 and 6:00PM Pacific Standard Time on 30_APRIL_2025. The conversation pertains to karbytes asking ChatGPT to analyze a journal entry which karbytes wrote (whose Uniform Resource Locator is displayed in the first prompt from karbytes in the transcript below). 
+
+During the aforementioned conversation, karbytes used the dictation feature of the ChatGPT mobile application (for Android devices) to translate karbytes' spoken words to text (before karbytes pressed the send button to send those dictated words to ChatGPT.
 
 (temporary URL for this file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/chatgpt_karbytes_01may2025_p0.txt)
 
