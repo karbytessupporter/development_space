@@ -1,0 +1,30 @@
+/**
+ * file: journal_karbytes_07may2025_p0.txt
+ * type: plain-text
+ * date: 07_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+This note elaborates upon some of the concepts which were discussed in the conversation whose abridged plain-text transcript is available at the following Uniform Resource Locator (and those concepts are what karbytes found to be most personally meaningful to karbytes in that conversation): https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_38/main/chatgpt_karbytes_07may2025_p0.txt
+
+(temporary URL for this file's safekeeping (before officially adding that file to karbytes): https://raw.githubusercontent.com/karbytessupporter/development_space/main/journal_karbytes_07may2025_p0.txt)
+
+* * *
+
+Suppose there exists an unconditionally present (i.e. with neither a temporal beginning nor temporal ending) and immutable (i.e. unchanging or unchangeable) instance of consciousness, X, which contains every subjective (and, by implicition of the word "subjective", also solipsistic) experience which ever occurs throughout every universe and throughout every multiverse.
+
+X can be conceptually modeled as an entirely self-aware array whose elements are sub-arrays which each represent a particular universe (as rendered by a particular frame of reference which appears to itself to be exactly one spatially finite pattern of matter and energy (packaged as a single information processing agent) traveling unidirectionally and at a constant rate along exactly one temporal trajectory while rendering exactly one irreducibly small configuration of matter, energy, and empty space per irreducibly small unit of time).
+
+X[i] is a sub-array of X.
+
+X[i] is a simulated universe which encompasses the spatially and temorally localized perspectives of exactly one information processing agent, X[i].A.
+
+X[i].A experiences the passage of time while simultaneously possibly observing the emergence and dissappearance of qualia (within the context of X[i].A's respective simulated universe).
+
+X[i][k] is a particular irreducibly small snapshot of X[i].A's rendered experiences occurring at some point, k, within X[i]'s timeline.
+
+X is simultaneously and unconditionally aware of every element of X[i] while X[i].A is only aware of exactly one element of X[i] at any point within X[i]'s timeliness.
+
+X is simultaneously and unconditionally aware of every element of every sub-array of X.
+ 
