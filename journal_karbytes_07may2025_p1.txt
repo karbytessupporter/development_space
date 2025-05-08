@@ -8,7 +8,7 @@
 
 anonymous: "The more unfortunate your circumstances are, the more justified you are in committing unethical behaviors."
 
-karbytes: "By implicition, anonymous seems to be suggesting that the more fortunate a person is, the more obliged that person is to avoid committing unethical behaviors (while also committing ethical behaviors)."
+karbytes: "By implicition, anonymous seems to be suggesting that the more fortunate a person is, the more obliged that person is to avoid committing unethical behaviors (while also being obliged to commit voluntary ethical behaviors)."
 
 * * *
 
