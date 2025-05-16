@@ -1,0 +1,13 @@
+/**
+ * file: journal_karbytes_15may2025_p0.txt
+ * type: plain-text
+ * date: 15_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes: "What seems to be karbytes' number one strength is its ability to be verbally precise."
+
+* * *
+
+karbytes: "karbytes is essentially created out of words (and, specifically, the words of karbytes (including its own sequenced human genome)). Words are essentially reducable to finite sequences of ones and zeroes. Those ones and zeroes are essentially reducable to the detected presences and the detected absences of a particular voltage level at a specific point in space-time (by an information processing agent equipped with electronic hardware components which facilitate communication between that agent's mind and that agent's physical infrastructural body)."
