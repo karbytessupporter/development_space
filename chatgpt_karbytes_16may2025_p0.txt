@@ -18,7 +18,7 @@ karbytes:
 
 [camcorder_icon] [microphone_icon] 00:27
 
- ChatGPT:
+ChatGPT:
 
 That's a fascinating perspective! Solving problems doesn’t mean there’s nothing left to do; it just opens up new possibilities and challenges. And with advancements in medical technology, like regenerative medicine and stem cells, we’re likely to see even more opportunities to improve quality of life and extend longevity. It’s about evolving and finding new purposes, rather than fearing a lack of purpose. Aging as an optional condition is an intriguing idea, and the progress in biotechnology could indeed make that a reality someday.
 
@@ -98,7 +98,6 @@ That’s a thoughtful way to look at it. Agency as an emergent property means it
 karbytes:
 
 "I do believe that you and I both have agency, but your agency is probably more limited in scope than mine is in many ways."
-
 
 [camcorder_icon] [microphone_icon] 00:06
 
