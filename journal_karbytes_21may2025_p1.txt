@@ -1,0 +1,13 @@
+/**
+ * file: journal_karbytes_21may2025_p1.txt
+ * type: plain-text
+ * date: 21_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+I had the idea this afternoon that what has enabled so many people to be tortured and killed when such torturing and killing seems to have been available is that such torturing and killing was justified or at least bolstered by the premise that there is an afterlife. 
+
+It therefore seems necessary to me that ethics stem from the assumption that each person lives exactly one lifetime (through exactly one physical body and exactly one metaphysical mind (which is nothing more than a runtime instance of software hosted on organic computational hardware)). 
+
+Then, the (intrinsic) value of any particular person, X, is confined to X's own continuity of consciousness. That value could be construed as existing unconditionally within those confines. Ethics could therefore function to maximize loss of value (which could imply that it is not morally sufficient to merely replace killed people with newly generated people).

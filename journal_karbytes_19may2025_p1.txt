@@ -1,0 +1,15 @@
+/**
+ * file: journal_karbytes_19may2025_p1.txt
+ * type: plain-text
+ * date: 19_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+For the duration of this hiatus (from updating karbytes), I decided to not showcase any of the files which are placed in the private (@karlinarayberinger anf @karbytessupporter) karbytes_basement_36 GitHub repositories also in the public (@karbytessupporter) development_space GitHub repository.
+
+Between 11:11PM Pacific Standard Time on 19_MAY_2025 and 11:11AM Pacific Standard Time on 20_MAY_2025, I plan on burning at least one M_DISC with exactly one folder named karbytes19may2025_beta which contains exactly two sub-folders: karbytes2025_12 (the official current version of karbytes at 11:59PM Pacific Standard Time on 18_MAY_2025) and karbytes_basement_36_19may2025 (the entire contents of the aforementioned private GitHub repository which is named karbytes_basement_36).
+
+(Note that (@karlinarayberinger) karbytes_basement_36 and (@karbytessupporter) karbytes_basement_36 are intended to contain the same files and hence generate identical zip files when downloaded from GitHub dot Com).
+
+My plan for when this hiatus ends is to incorporate all the files which are in karbytes_basement_36 into the next chapter of karbytes (and that next chapter will be named KARLINA_OBJECT_extension_pack_40).

@@ -1,0 +1,19 @@
+/**
+ * file: journal_karbytes_19may2025_p0.txt
+ * type: plain-text
+ * date: 18_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+On 18_MAY_2025 I released the files which I drafted in the public @karbytessupporter development_space GitHub repository (and subsequently stored in the private @karbytessupporter and @karlinarayberinger karbytes_basement_35 GitHub repositories) during the week-long hiatus into the official chapter (i.e. "micro directory") named KARLINA_OBJECT_extension_pack_39 of the karbytes blog, finalized that chapter, and burned several M_DISCs with the version of karbytes named karbytes2025_12.
+
+I noticed that the aforementioned hiatus pertained to me gaining closure on some "unresolved internal conflicts" pertaining to existential and social matters which caused me a significant degree of discomfort to have not had neatly processed. Now that I have a sense of having closed up those "wounds" adequately enough, I feel eager and ready to tackle something more ambitious and relevant to my actual interests and goals in life: becoming a better student of modern physics. 
+
+I have decided to purchase a hard copy of "Quanta and Fields: The Biggest Ideas in the Universe" (by Sean Carroll, 24_MAY_2024) from Amazon dot Com even though that costs significantly more than the Kindle version due to the fact that the Kindle version badly formats mathematical equations (based on what ChatGPT-4o told me when I inquired about it (and ChatGPT-4o said that Sean Carroll himself recommended the hard copy of the Kindle version due to such formatting issues)). I figure it is a worthy investment.
+
+I do not plan on releasing this plain-text note to the aforementioned development_space GitHub repository (though I do think it will likely be included in the next official augmentation of the karbytes blog) during the current hiatus from updating karbytes which I am in (and I expect that hiatus to last between three weeks and eight weeks (for the sake of allowing myself to focus on my studies and personal goals in a manner which is maximally dignified, efficient, and discrete and so that I do not feel that such personal "leveling up" is too much of a real-time public performance (which would seemingly detract from my enjoyment of simply being a student again))).
+
+I hope and expect that the karbytes blog becomes so streamlined that it is only augmented with content which strictly pertains to my academic and strategic interests instead of to "trash talk" about the antics of apes I would rather ignore and not be impeded by. I feel the need to take a stronger stance against allowing my blogging platform to turn into a venting space for people who do not share my content goals or who simply want to use me for gaining publicity or a sense of empowerment at my expense. I consider the karbytes brand to be a refreshing and useful alternative to the "brain rot" culture which seems prominently and aggressively mainstream (and which seems to promote rudeness, retribution, anti-intellectualism, and oppression of gender-nonconforming individuals).
+
+
