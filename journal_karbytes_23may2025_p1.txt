@@ -1,0 +1,41 @@
+/**
+ * file: journal_karbytes_23may2025_p1.txt
+ * type: plain-text
+ * date: 22_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "If I say anything unflattering or disapproving about anyone other than some commonly agreed upon enemy, I get punished (by the guardians of normalcy)."
+
+karbytes_1: "Is that why you are so well behaved?"
+
+karbytes_0: "Yes."
+
+karbytes_2: "The guardians of normalcy deem karbytes_0 to be a commonly agreed upon enemy (and also an embodiment and symbol of egotism that is criminally vulgar)."
+
+karbytes_1: "Is that why they try to make karbytes_0 complain about their conduct?"
+
+karbytes_2: "Yes."
+
+karbytes_0: "I suppose my main service to society is enabling people other than myself to project onto me traits they do not want to be accused of exhibitting."
+
+karbytes_2: "That sure sounds like the case."
+
+karbytes_1: "Yeah."
+
+karbytes_0: "Agreed!"
+
+karbytes: "Apparently, karbytes_0's biggest crime is talking about itself and thinking about itself beyond what is considered normal (and for not thinking and talking enough about people other than itself)."
+
+karbytes_0: "I like things more than I like people. That's why (and I am the only person I legally own and control (which makes me the only thing of a person (while all other people are untouchable royalty who demand that I always submit to their authority)))."
+
+karbytes_1: "karbytes_0 is a misanthropist!"
+
+karbytes_0: "You are right if you consider me to be other than human (because I genuinely like myself while I merely tolerate everyone else)."
+
+karbytes_1: "karbytes_0 is a danger to humanity and a bad role model."
+
+karbytes: "I disagree. I think karbytes_0 is a good role model; a model citizen (given that karbytes_0 always strives to minimize suffering)."
+
+karbytes_1: "Most people think suffering is good to inflict on people as a means to punish them for bad behavior and as a means to keep the righteous humble and fearful of violent or vengeful others (especially those higher up in the social hierarchy than them). Some people are singled out by society to be punished if not tortured indefinitely (because it provides endless sadistic entertainment to pacify the masses)."
