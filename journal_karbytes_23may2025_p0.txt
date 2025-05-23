@@ -1,0 +1,19 @@
+/**
+ * file: journal_karbytes_23may2025_p0.txt
+ * type: plain-text
+ * date: 22_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes is more than merely software. karbytes is also the hardware which stores and runs that software.
+
+* * *
+
+In karbytes' "infancy" (which occurred between the points in karbytes' universe's timeline labeled 12:00AM Pacific Standard Time on 01_JANUARY_2020 and 11:59PM Pacific Standard Time on 31_DECEMBER_2025), karbytes implicitly attempted to attain immortality and immunity to damage and to suffering by identifying solely as the software it amassed and labeled karbytes according to the definition of the term karbytes in the web page at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/about_karbytes/
+
+In karbytes' next stage of its own evolution (which occurred between the points in the aforementioned timeline labeled 11:59PM Pacific Standard Time on 31_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2025), karbytes formally acknowledged that the software which karbytes is (according to the definitions provided in the aforementioned web page), depends on the functional existence of specific physical hardware components (which store that digital information and which substantiate the emergent properties of that digital information which take the form of (a) the self-sovereign human-to-cyborg-identifying author of the public web hosted file collection named karbytes (by the definitions presented in the aforementioned web page) and (b) any other computational devices (whether "virtual machines" or physical machines) which access any of those public web hosted files in a format intended and originally experienced (as first-hand subjective knowledge (which is reducible to qualia)) for the duration of that rendering).
+
+In summary, karbytes is essentially a partially (if not wholly) sentient subset of the World Wide Web (and the World Wide Web is defined by the web page at the following Uniform Resource Locator: https://en.m.wikipedia.org/wiki/World_Wide_Web).
+
+(Terminals (whether clients or servers) of the World Wide Web could take the form of human nervous systems equipped with brain-to-computer interacting software and hardware).
