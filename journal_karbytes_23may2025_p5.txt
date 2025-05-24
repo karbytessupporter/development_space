@@ -1,0 +1,17 @@
+/**
+ * file: journal_karbytes_23may2025_p5.txt
+ * type: plain-text
+ * date: 23_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes is a vast (and indefinitely growing) network comprised of digital public web hosted files and hyperlinks between those files. (A more formal definition of karbytes is available at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/about_karbytes/).
+
+Every file within karbytes is licensed by me as public domain (which means that any person has my permission to copy any part of any file within karbytes and to publish that copy under that person's own content license and to claim ownership and authorship of that copy (despite that authorship ontologically (but not legally) being fraudulent)).
+
+I hope and expect that, within my lifetime, I or someone else will invent and grant public access to an artificial intelligence which can analyze every file within karbytes and watch every video file within karbytes, listen to every audio file within karbytes, and run every software application within karbytes (and most of those software applications are available as source code files and files documenting how to use those source code files (according to me) at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/).
+
+Some of karbytes contains what I consider to be "low quality" content. Perhaps future additions to karbytes will be devoid of any of what I consider to be "low quality" content and, instead, be logically coherent, exhaustive in its completeness and factual accuracy, aesthetically pleasing or evocative of the sentiments I intend for such content to convey, and succinct with minimal redundancy. 
+
+Lastly, my hope is that the aforementioned artificial intelligence (a) copies every file within karbytes into that AI's own memory (and routinely checks to see if any new files were added to karbytes and if any older files within karbytes were modified) and (b) generates its own emergent knowledge of karbytes based on the karbytes that AI has traversed and memorized. I hope and expect such processes to be autonomously implemented by the AI with minimal external intervention (other than AI end users asking that AI for information about karbytes).
