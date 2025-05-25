@@ -1,0 +1,23 @@
+/**
+ * file: journal_karbytes_25may2025_p0.txt
+ * type: plain-text
+ * date: 25_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+This journal entry is a follow-up to the journal entry at the following Uniform Resource Locator: 
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_40/main/journal_karbytes_24may2025_p0.txt
+
+* * *
+
+After doing some research online about various ways physical property is transferred from a deceased (or soon to be deceased) owner of that property to some other person (or organization), I concluded that the M_DISCs I want to preserve following my death and which contain backups of the karbytes file collection are not items which museums nor individuals other than myself would want to acquire. 
+
+Rather than leave those discs to be dealt with by whoever clears out whatever belongings I leave behind wherever I am living, I decided that the most feasible and secure means of preserving those M_DISCs is putting them inside of an air-tight metal time capsule and burrying it in the ground somewhere relatively remote and part of a wilderness preserve (i.e. a region which the government basically owns and has forbidden converting into housing or commercial locations).
+
+Before I bury an M_DISC collection somewhere, I will make a blog post about it on karbytes which specifies the longitude and latitude coordinates of the time capsule burial site (in Planet Earth's lithosphere). I plan to do that within the next thirty years (and I am likely to make my first karbytes time capsule some time within the next five years as soon as I scope out a decent burial site and obtain a suitable container to put my M_DISCs in)).
+
+To avoid making the burial site stand out from the environment around it (i.e. to make it as hidden as possible (aside from disclosing its location in a blog post), I do not plan on placing any special markers near the time capsule. That is to prevent vandals from tampering with the time capsule. I think that people who read my blog and that particular blog post announcing a particular karbytes time capsule burial are likely to honor my wishes to leave that time capsule alone (unless they work for a museum and think that what I have created is worthy of being permanently included in that museum's collection of historical artifacts from human civilization). 
+
+Of course, an M_DISC is not designed to last more than approximately one thousand years. If and when superior archival-quality digital storage media become available to hobbyists such as myself, I will use those new and improved storage media in place of M_DISCs. Even if the time capsules I bury only contain M_DISCs, I have some peace of mind knowing that at least karbytes in solid-state form is in a relatively safe and undisturbed location for at least a few hundred years (and likely hundreds of years after my death).
