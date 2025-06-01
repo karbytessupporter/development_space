@@ -1,0 +1,9 @@
+/**
+ * file: journal_karbytes_31may2025_p2.txt
+ * type: plain-text
+ * date: 31_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "...And my dying words were: Take excellent care of yourselves."
