@@ -20,7 +20,6 @@ karbytes:
 
 Is it accurate to say that using Advanced Voice Mode (or Standard Voice Mode) is an example of connection-oriented communication while using ChatGPT as I currently am now in this conversation is an example of connectionless communication?
 
-
 ChatGPT:
 
 That’s a thoughtful question — and the answer is nuanced.
@@ -208,15 +207,15 @@ Fallbacks on Failure ------------| Graceful degradation (e.g., revert to text) -
 
 ChatGPT Text-Based Conversation vs. SMS
 
-Feature | ChatGPT Text Conversation | SMS (Short Message Service)
+Feature ------------------------------| ChatGPT Text Conversation ------------------------------------| SMS (Short Message Service)
 
-Connection | Type | Client-server, over HTTP(S) (connection reused) | Cellular network, store-and-forward
+Connection Type ----------------------| Client-server, over HTTP(S) (connection reused) --------------| Cellular network, store-and-forward
 
-Session State | Maintains chat history (within a session) | Stateless; each message is independent
+Session State ------------------------| Maintains chat history (within a session) --------------------| Stateless; each message is independent
 
-Delivery Guarantee | High (with HTTP-based reliability) | Best effort; delivery not guaranteed but likely
+Delivery Guarantee -------------------| High (with HTTP-based reliability) ---------------------------| Best effort; delivery not guaranteed but likely
 
-Ordering of Messages | Messages are timestamped and sequential in interface | Messages may arrive out of order (esp. cross-network)
+Ordering of Messages -----------------| Messages are timestamped and sequential in interface ---------| Messages may arrive out of order (esp. cross-network)
 
 Latency | Low latency, near-instant over internet | Low, but varies with signal and network
 
