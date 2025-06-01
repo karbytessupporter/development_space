@@ -1,0 +1,27 @@
+/**
+ * file: journal_karbytes_31may2025_p0.txt
+ * type: plain-text
+ * date: 31_MAY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+If I need to be in a particular mood or setting to write or think about a particular topic, then I consider that topic to be more "purple" than "green" (in general). 
+
+If my mood does not seem to significantly affect my ability to write or think about a particular topic, then I consider that topic to be more "green" than "purple" (in general).
+
+The terms "green" and "purple" (in the context of this journal entry) are preliminarily defined in the following older journal entry:
+
+https://karbytesforlifeblog.wordpress.com/green_and_purple_definitions/
+
+* * *
+
+Newer Definitions of "green" and "purple" (with respect to karbytes):
+
+The category "green" refers to a file within karbytes which karbytes has decided does not require a special type of mental state (other than non-impared mental functioning) to create nor to appreciate (during that file's creation or after that file's creation).
+
+The category "purple" refers to a file within karbytes which karbytes typically needs to be in a relatively abnormal mental state to create and to feel compelled to review.
+
+
+
+
