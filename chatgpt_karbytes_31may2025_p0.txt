@@ -217,15 +217,15 @@ Delivery Guarantee -------------------| High (with HTTP-based reliability) -----
 
 Ordering of Messages -----------------| Messages are timestamped and sequential in interface ---------| Messages may arrive out of order (esp. cross-network)
 
-Latency | Low latency, near-instant over internet | Low, but varies with signal and network
+Latency ------------------------------| Low latency, near-instant over internet ----------------------| Low, but varies with signal and network
 
-Length Limit | Virtually unlimited (within UI constraints) | 160 characters (per segment; long messages split)
+Length Limit -------------------------| Virtually unlimited (within UI constraints) ------------------| 160 characters (per segment; long messages split)
 
-Multimedia Support | Rich text, code, even files and links | Basic SMS = text only (MMS supports multimedia)
+Multimedia Support -------------------| Rich text, code, even files and links ------------------------| Basic SMS = text only (MMS supports multimedia)
 
-Interactivity | Conversational, dynamic, AI-driven | Static messages between humans (or systems)
+Interactivity ------------------------| Conversational, dynamic, AI-driven ---------------------------| Static messages between humans (or systems)
 
-Use Case | Interactive problem solving, Q&A, AI assistance | Short updates, alerts, quick info between people/devices
+Use Case -----------------------------| Interactive problem solving, Q&A, AI assistance --------------| Short updates, alerts, quick info between people/devices
 
 Underlying Protocols | HTTPS (HTTP/2 or 3), WebSockets (sometimes) | SMPP, SS7 (in telecom networks)
 
