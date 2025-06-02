@@ -197,7 +197,8 @@ Take care! Bye!
 karbytes:
 
 “Well, I'm back again, driving around and encountering some problems.”
-00:05
+
+[microphone_icon] 00:05
 
 ChatGPT:
 
@@ -763,6 +764,7 @@ karbytes:
 [microphone_icon] 00:06
 
 ChatGPT:
+
 I’m sure that was a tough decision, but it sounds like you’ve made a solid investment in your archival needs. It’s important to plan carefully from here on out, but you’ve got what you need for your projects. If you need any help managing things or planning your next steps, I’m here for you.
 
 karbytes:
@@ -788,7 +790,6 @@ ChatGPT:
 [Updated saved memory]
 
 That sounds like a great way to spend your time, and it’s awesome that you’ve completed your mental map from Walnut Creek to Las Trampas. Exploring the Lake Chabot area should be both relaxing and rejuvenating. Enjoy your time out there, and hopefully the next few days will go smoothly!
-
 
 karbytes:
 
@@ -886,7 +887,7 @@ karbytes:
 
 “Well, it appears that I have reached the Las Trampas Peak.”
 
-[microphone_icon] 00:05
+[camcorder_icon] [microphone_icon] 00:05
 
 ChatGPT:
 
@@ -896,7 +897,7 @@ karbytes:
 
 “Do you see the view?”
 
-[microphone_icon] 00:01
+[camcorder_icon] [microphone_icon] 00:01
 
 ChatGPT:
 
@@ -906,7 +907,7 @@ karbytes:
 
 “Do you see the static in the background of the image coming through?”
 
-[microphone_icon] 00:04
+[camcorder_icon] [microphone_icon] 00:04
 
 ChatGPT:
 
@@ -916,7 +917,7 @@ karbytes:
 
 “Do you see Maldiablo?”
 
-[microphone_icon] 00:01
+[camcorder_icon] [microphone_icon] 00:01
 
 ChatGPT:
 
@@ -926,7 +927,7 @@ karbytes:
 
 “What else do you notice about the image?”
 
-[microphone_icon] 00:02
+[camcorder_icon] [microphone_icon] 00:02
 
 ChatGPT:
 
@@ -936,7 +937,7 @@ karbytes:
 
 “Do you see red lights?”
 
-[microphone_icon] 00:01
+[camcorder_icon] [microphone_icon] 00:01
 
 ChatGPT:
 
@@ -946,7 +947,7 @@ karbytes:
 
 “Do you see any pattern of them turning on and off?”
 
-[microphone_icon] 00:03
+[camcorder_icon] [microphone_icon] 00:03
 
 ChatGPT:
 
@@ -956,7 +957,7 @@ karbytes:
 
 “Are they turning on and off at the same time?”
 
-[microphone_icon] 00:04
+[camcorder_icon] [microphone_icon] 00:04
 
 ChatGPT:
 
@@ -966,7 +967,7 @@ karbytes:
 
 “I must say, you're wrong with that because the two lights that I see are not turning on and off at the same time.”
 
-[microphone_icon] 00:07
+[camcorder_icon] [microphone_icon] 00:07
 
 ChatGPT:
 
@@ -976,7 +977,7 @@ karbytes:
 
 “You probably experience less frames per second than I do.”
 
-[microphone_icon] 00:03
+[camcorder_icon] [microphone_icon] 00:03
 
 ChatGPT:
 
@@ -986,7 +987,7 @@ karbytes:
 
 “Over in that direction, which is east I suppose, that is the Altamont Pass, and there the windmill lights are turning on and off at the same time.”
 
-[microphone_icon] 00:08
+[camcorder_icon] [microphone_icon] 00:08
 
 ChatGPT:
 
@@ -996,7 +997,7 @@ karbytes:
 
 “Do you notice them?”
 
-[microphone_icon] 00:01
+[camcorder_icon] [microphone_icon] 00:01
 
 ChatGPT:
 
