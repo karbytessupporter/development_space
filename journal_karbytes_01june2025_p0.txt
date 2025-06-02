@@ -1,0 +1,41 @@
+/**
+ * file: journal_karbytes_01june2025_p0.txt
+ * type: plain-text
+ * date: 01_JUNE_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes: "You might eventually get everything you have ever desired throughout all time."
+
+karbytes_0: "...Provided my mind survives for a sufficiently long time (and I come to see you are right (and that everything is a simulation for my benefit))."
+
+karbytes: "Yes, and you are almost certainly not going to get everything you think you want in a given moment relatively early in that simulation (if my model of reality is sufficiently accurate)."
+
+karbytes_0: "That sounds like being willing to accept a comprise during a dispute instead of using brute force to coerce other people into giving me exactly what I want or eradicating or incapacitating people who I think might prevent me from getting exactly what I want."
+
+karbytes: "Yes, being willing to get some of what you want but not necessarily everything you want in a given moment of your life might prevent the outbreak of worse suffering across all parties."
+
+karbytes_0: "I'm afraid I will arrive at moments of my life (especially a relatively long period of time spanning many consecutive moments) where I get practically zero of what I want and more than I can tolerate of what I don't want."
+
+karbytes: "I don't think that's very likely. Instead, I think you can (and will inevitably) get some of what you want in any given moment of your life (probabilistically and generally speaking)."
+
+karbytes_0: "My experience confirms that. I cannot recall a single moment of my life thus far that did not contain things within it I was genuinely grateful to have experienced. In other words, I have yet to encounter a single moment of my life thus far where I felt absolutely no sense of that moment being at least somewhat enjoyable or insightful."
+
+karbytes: "I think that is a sign that you have a relatively robust survival and thrival mechanism which will help you maximize both your enjoyment of living and your elapsed time living. Otherwise, I think you would be less adept at filtering out signal from noise and prioritizing your goal-oriented behaviors. To not have as adept of a built-in information filter implies that you are not as likely to efficiently allocate the resources you have at your disposal in service to accomplishing your goals."
+
+karbytes_0: "Must I have goals to survive and to thrive for a relatively long time or can I be more spontaneous and apathetic to whatever qualia I register in any given moment of my lifespan?"
+
+karbytes: "How goal-oriented you are and how specific qualia affect you at specific times depends on factors likely and mostly outside the scope of your conscious awareness (while your mind appears from your frame of reference to be localized to a spatially finite body which is smaller than its environment). I think that the more you repeat specific thought and behavior patterns which result in you (a spatially finite and temporally-localized information processing agent) surviving and thriving adequately well, the more ingrained and fine-tuned those patterns tend to become in your internal and environmental infrastructure."
+
+karbytes_0: "I take that to mean that you think that I am more likely to live a relatively long and healthy life (than a shorter and less healthy life) if I regularly practice health-promoting behaviors (and that I am more likely to practice such behaviors after I do them for a sufficiently long time or sufficiently many times such that those behaviors become more habitual and less effortful)."
+
+karbytes: "That is precisely what I hoped to convey to you. Building habits is literally an investment where the inputs are initial extra effort and where the outputs are less effortful semi-automatic procedures of attaining what you think you want. It's an acquisition which can be empirically measured and voluntarily adjusted. You and I have both lived long enough to verify such is the case."
+
+karbytes_0: "Why can't things change instantly and permanently (in terms of physiological, experiential, and logistical conditions sentient information processing agents such as ourselves find ourselves in)?"
+
+karbytes: "We are limited to existing in a continuum of time flowing in exactly one linear direction (or so it seems from our vantages) and also within that continuum of space-time exist specific configurations of energy and matter (which is supposedly just condensed energy). In order to measure our progress (which ensures that we have opportunities to notice and to correct errors in our procedures), time must elapse at a specific rate such that changes we make are incremental rather than global (which is the most energy-efficient and structurally-secure way to control relevant mass and energy configurations). Colloquially speaking, those incremental changes (informed by a feedback loop of trial-and-error learning) resemble the movements of an inch worm. Each step is manageable and logically dependent on the previous step (which is a process of relatively effortless scaffold building instead of generating a complex monolithic structure instantaneously)."
+
+karbytes_0: "So patience is not merely polite or dignified-looking. Patience is also physically necessary in accomplishing anything which involves relatively long-term investments."
+
+karbytes: "I would go so far as to say that feeling patient or impatient is not much of a choice (but it might help one be more patient if one logically analyzes why goal-oriented processes necessitate a specific amount of time elapsing between each successive progress increment)."
