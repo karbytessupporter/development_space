@@ -1,0 +1,33 @@
+/**
+ * file: journal_karbytes_02june2025_p0.txt
+ * type: plain-text
+ * date: 02_JUNE_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Today (on 02_JUNE_2025) I made a slight update to the following file (and that file update consisted merely of (a) updating the time-stamps denoting when that file was most recently updated and (b) removing an extra horizontal line near the bottom of that file):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_BLOG_APPS_github_hosted_website/main/index.html
+
+That HTML file is the source code of a live GitHub-hosted nexus of what I consider to be karbytes' finest (JavaScript-powered, single-web-page, and live-web-hosted) software applications (and that nexus of web apps is accessible at the following Uniform Resource Locator):
+
+https://karlinarayberinger.github.io/KARBYTES_BLOG_APPS_github_hosted_website/
+
+* * *
+
+Within the past 48 hours (between the points in my universe's timeline labeled 11:59PM Pacific Standard Time on 31_MAY_2025 and 11:59PM Pacific Standard Time on 02_JUNE_2025), I began generating media files and source code files for a (JavaScript-powered, single-web-page, and live-web-hosted) software application which I consider to be too political and/or culturally-biased to be included in the aforementioned nexus of KARBYTES_BLOG_APPS. That new stand-alone web application is described in further detail in the following ChatGPT conversation transcript:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_41/main/chatgpt_karbytes_01june2025_p0.txt
+
+* * *
+
+Note that I did not update any file named karbytes_for_life_blog_updates.txt after updating the aforementioned source code file named index.html (for the nexus of live web apps named KARBYTES_BLOG_APPS) due to the fact that such an update did not also require that I update any (WordPress dot Com hosted) web pages within the website named Karbytes For Life Blog dot WordPress dot Com (though I did update one of the GitHub dot Com hosted files which is linked to by the following WordPress dot Com hosted web page within Karbytes For Life Blog dot WordPress dot Com):
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website/
+
+As of now (some point in time between the points in my universe's timeline labeled 11:59PM Pacific Standard Time on 31_MAY_2025 and 11:59PM Pacific Standard Time on 02_JUNE_2025), that "micro directory" web page within Karbytes For Life Blog dot WordPress dot Com named raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website was last updated on 04_APRIL_2025.
+
+Further elaboration on the protocols I use in order to document and authorize changes to karbytes content is available at the following Uniform Resource Locator:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_code_continues/
