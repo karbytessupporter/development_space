@@ -1,0 +1,51 @@
+<!--
+/**
+ * file: index.html
+ * type: Hyper-Text-Markup-Language
+ * author: karbytes
+ * date: 03_JUNE_2025
+ * license: PUBLIC_DOMAIN
+ */
+ -->
+ <!DOCTYPE html>
+ <html>
+ <head>
+   <meta charset="UTF-8">
+   <title>ANNOYING_AUTOMOBILE_DRIVER_SOUND_TRACK_LOOPER</title> 
+   <link rel="stylesheet" href="karbytes_aesthetic.css">
+   <style>#the_button { background: #00ff00; color: #000000; }</style>
+   <style>#add_another_sound_file_menu_button { background: #ff9000; color: #000000; }</style>
+   <style>
+      #the_button:hover, #add_another_sound_file_menu_button:hover { 
+        background: #ffff00; 
+        color: #000000;
+      }
+   </style>
+   <script src="sound_track_looper_four.js"></script>
+ </head>
+ <body onload="load_web_page()">
+   <div>
+     <h1>ANNOYING_AUTOMOBILE_DRIVER_SOUND_TRACK_LOOPER</h1>
+     <img src="chatgpt_generated_image_annoying_automobile_driver_01june2025.png" alt="angry crazy driver forest road" width="300">
+     <p>Use this web application to generate obnoxious noises which play continuously for indefinitely many loops.</p>
+     <p>Multiple sound tracks can be played simultaneously by clicking the "add another sound file menu" button.</p>
+     <p>For best results, select at least the first two sound tracks in the sound file menu. (Those first two sound tracks feature exclusively car horn beeps and engine revving noises interspersed with silence).</p>
+     <p>To increase the randomness of the sound effects, open multiple browser tabs with <a style="background: #00ff00;color: #000000" href="https://karbytessupporter.github.io/ANNOYING_AUTOMOBILE_DRIVER_SOUND_TRACK_LOOPER_github_hosted_website/" target="_blank" rel="noopener">this application</a> and click the "start sound track looper" buttons at different times.</p>
+   </div>
+   <div>
+     <p>1) Select one or multiple sound files from the list below.</p>
+     <div id="sound_file_menu_area">
+       <p><select id="sound_file_menu_0"></select></p>
+     </div>
+     <p><input id="add_another_sound_file_menu_button" type="button" value="add_another_sound_file_menu()" onclick="add_another_sound_file_menu()"></p>
+     <p>2) Click the start_sound_track_looper() button to start playing the selected sound file(s).</p>
+     <p><input id="the_button" type="button" value="start_sound_track_looper()" onclick="start_sound_track_looper()"></p>
+   </div>
+   <div id="output">
+    <p><em>This section will be updated with information about selected sound tracks after the start button is clicked.</em></p>
+   </div>
+   <div>
+     <p class="console" id="console_display">???</p>
+   </div>
+ </body>
+ </html>

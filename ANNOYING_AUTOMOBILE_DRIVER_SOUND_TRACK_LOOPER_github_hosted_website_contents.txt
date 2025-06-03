@@ -1,0 +1,43 @@
+--------------------------------
+
+This Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder.
+
+--------------------------------
+
+Directory: ANNOYING_AUTOMOBILE_DRIVER_SOUND_TRACK_LOOPER_github_hosted_website
+
+file_0: annoying_automobile_driver_sound_track_01june2025_p3.mp3 // 3.73 megabytes
+
+file_1: karbytes_aesthetic.css // 0.00 megabytes
+
+file_2: annoying_automobile_driver_sound_track_01june2025_p6.mp3 // 7.74 megabytes
+
+file_3: annoying_automobile_driver_sound_track_01june2025_p5.mp3 // 5.77 megabytes
+
+file_4: chatgpt_generated_image_annoying_automobile_driver_01june2025.png // 2.09 megabytes
+
+file_5: annoying_automobile_driver_sound_track_01june2025_p1.mp3 // 5.31 megabytes
+
+file_6: annoying_automobile_driver_sound_track_01june2025_p4.mp3 // 3.55 megabytes
+
+file_7: annoying_automobile_driver_sound_track_01june2025_p8.mp3 // 15.37 megabytes
+
+file_8: index.html // 0.00 megabytes
+
+file_9: annoying_automobile_driver_sound_track_01june2025_p2.mp3 // 3.22 megabytes
+
+file_10: sound_track_looper_four.js // 0.01 megabytes
+
+file_11: annoying_automobile_driver_sound_track_01june2025_p0.mp3 // 5.37 megabytes
+
+file_12: LICENSE // 0.00 megabytes
+
+file_13: annoying_automobile_driver_sound_track_01june2025_p7.mp3 // 11.72 megabytes
+
+--------------------------------
+
+Total number of files: 14
+
+Total folder size: 63.89 megabytes
+
+--------------------------------
