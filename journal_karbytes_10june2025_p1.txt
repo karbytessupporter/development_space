@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-This is a (tentative) list of what karbytes considers to be some of the most philosophically or technologically significant pages throughout (the official) karbytes as of 4:00AM Pacific Standard Time on 10_JUNE_2025 (ranked in order of importance (to karbytes) with 1 being "the most important" in the list and 20 being "the least important" in the list). Note that, at the aforementioned point in time, the totality of (the official) karbytes (file collection) is hosted on the surface World Wide Web and is not larger than 17 gigabytes of data:
+This is a (tentative) list of what karbytes considers to be some of the most philosophically or technologically significant pages throughout (the official) karbytes as of 11:59PM Pacific Standard Time on 10_JUNE_2025 (ranked in order of importance (to karbytes) with 1 being "the most important" in the list and 20 being "the least important" in the list). Note that, at the aforementioned point in time, the totality of (the official) karbytes (file collection) is hosted on the surface World Wide Web and is not larger than 17 gigabytes of data:
 
 1. https://karlinaobject.wordpress.com/nature/
 
