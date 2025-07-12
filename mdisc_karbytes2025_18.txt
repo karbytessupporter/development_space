@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2025_18.txt
  * type: plain-text
- * date: 10_JULY_2025
+ * date: 11_JULY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately 18 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_18: // folder contains exactly 150 files (approximately 16406.84 megabytes total).
+karbytes2025_18: // folder contains exactly 150 files (approximately 16406.85 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -98,7 +98,7 @@ karbytes2025_18: // folder contains exactly 150 files (approximately 16406.84 me
 
     - zip_file_29: KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - zip_file_30: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 622.1 kilobytes
+    - zip_file_30: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 622.4 kilobytes
 
     - zip_file_31: KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
