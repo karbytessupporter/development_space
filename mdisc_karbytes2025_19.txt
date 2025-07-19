@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2025_19.txt
  * type: plain-text
- * date: 17_JULY_2025
+ * date: 18_JULY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately 18 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_19: // folder contains exactly 151 files (approximately 16491.35 megabytes total).
+karbytes2025_19: // folder contains exactly 151 files (approximately 16497.10 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -92,7 +92,7 @@ karbytes2025_19: // folder contains exactly 151 files (approximately 16491.35 me
 
     - zip_file_26: karbytes_basement_40-main.zip // 153.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_27: karbytes_basement_41-main.zip // 65.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_27: karbytes_basement_41-main.zip // 66.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_28: karbytes_beginner_bytes_computer_science_2010_to_2015.zip // 347.6 megabytes
 
@@ -304,7 +304,7 @@ karbytes2025_19: // folder contains exactly 151 files (approximately 16491.35 me
 
     - zip_file_132: KARLINA_OBJECT_extension_pack_45-main.zip // 73.3 megabytes
 
-    - zip_file_133: KARLINA_OBJECT_extension_pack_46-main_[undefined_day].zip // 4.4 megabytes
+    - zip_file_133: KARLINA_OBJECT_extension_pack_46-main_[undefined_day].zip // 9.5 megabytes
 
     - zip_file_134: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
