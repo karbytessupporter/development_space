@@ -1,12 +1,12 @@
 /**
  * file: mdisc_karbytes2025_19.txt
  * type: plain-text
- * date: 28_JULY_2025
+ * date: 31_JULY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [UNDEFINED_DAY] (and that specific file collection is named karbytes2025_19). 
+The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 31_JULY_2025 (and that specific file collection is named karbytes2025_19). 
 
 Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2025_19.
 
@@ -20,7 +20,7 @@ https://karbytesforlifeblog.wordpress.com/print_folder_contents
 
 Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created GitHub repository (which is associated with the GitHub username @karlinarayberinger).
 
-Each zip file which is enumerated on this web page whose file name contains the string "_[undefined_day]" (quotation characters not included) was refers to exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on [UNDEFINED_DAY]. 
+Each zip file which is enumerated on this web page whose file name contains the string "_01august2025" (quotation characters not included) was refers to exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on 31_JULY_2025. 
 
 Each zip file which is enumerated on this web page has exactly one uniquely corresponding "micro directory" web page (in the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com) if and only if that zip file is derived from a public (rather than from a private) GitHub repository. Zip files which are enumerated on this web page and which are downloaded from private GitHub repositories (generally) contain the leading characters "karbytes_basement_" (quotations not included).
 
@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately 18 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_19: // folder contains exactly 151 files (approximately 16630.69 megabytes total).
+karbytes2025_19: // folder contains exactly 151 files (approximately 16684.68 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -92,13 +92,13 @@ karbytes2025_19: // folder contains exactly 151 files (approximately 16630.69 me
 
     - zip_file_26: karbytes_basement_40-main.zip // 153.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_27: karbytes_basement_41-main.zip // 67.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_27: karbytes_basement_41-main.zip // 67.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_28: karbytes_beginner_bytes_computer_science_2010_to_2015.zip // 347.6 megabytes
 
     - zip_file_29: KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - zip_file_30: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 750.6 kilobytes
+    - zip_file_30: KARBYTES_FOR_LIFE_BLOG-main_01august2025.zip // 752.4 kilobytes
 
     - zip_file_31: KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
@@ -304,7 +304,7 @@ karbytes2025_19: // folder contains exactly 151 files (approximately 16630.69 me
 
     - zip_file_132: KARLINA_OBJECT_extension_pack_45-main.zip // 73.3 megabytes
 
-    - zip_file_133: KARLINA_OBJECT_extension_pack_46-main_[undefined_day].zip // 149.1 megabytes
+    - zip_file_133: KARLINA_OBJECT_extension_pack_46-main.zip // 205.0 megabytes
 
     - zip_file_134: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
@@ -334,11 +334,11 @@ karbytes2025_19: // folder contains exactly 151 files (approximately 16630.69 me
 
     - zip_file_147: KARLINA_OBJECT_APPS-main.zip // 24.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_148: KARBYTES_BLOG_APPS-main_[undefined_day].zip // 493.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_148: KARBYTES_BLOG_APPS-main_01august2025.zip // 493.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
     - zip_file_149: karbytes_test_github_hosted_website-main.zip // 23.6  megabytes
 
-    - zip_file_150: KARBYTES_BLOG_APPS_github_hosted_website-main_[undefined_day].zip // 48.6  megabytes
+    - zip_file_150: KARBYTES_BLOG_APPS_github_hosted_website-main_01august2025.zip // 48.6  megabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
