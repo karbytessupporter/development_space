@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2025_22.txt
  * type: plain-text
- * date: 17_SEPTEMBER_2025
+ * date: 19_SEPTEMBER_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -100,7 +100,7 @@ karbytes2025_22: // folder contains exactly 161 files (approximately 18174.80 me
 
     - zip_file_30: karbytes_basement_44-main.zip // 9.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_31: karbytes_basement_45-main_[undefined_day].zip // 10.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_31: karbytes_basement_45-main_[undefined_day].zip // 12.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_32: karbytes_beginner_bytes_computer_science_2010_to_2015.zip // 347.6 megabytes
 
