@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2025_22.txt
  * type: plain-text
- * date: 13_OCTOBER_2025
+ * date: 15_OCTOBER_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately 21 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_22: // folder contains exactly 162 files (approximately 19199.52 megabytes total).
+karbytes2025_22: // folder contains exactly 162 files (approximately 19199.54 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -354,7 +354,7 @@ karbytes2025_22: // folder contains exactly 162 files (approximately 19199.52 me
 
     - zip_file_157: KARBYTES_BLOG_APPS_github_hosted_website-main_[undefined_day].zip // 48.7  megabytes
 
-    - zip_file_158: karbytes_wayback_machine_saves_precision_batches-main_[undefined_day].zip // 824.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_158: karbytes_wayback_machine_saves_precision_batches-main_[undefined_day].zip // 824.3 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
     - zip_file_159: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_[undefined_day].zip // 267.9 megabytes
 
