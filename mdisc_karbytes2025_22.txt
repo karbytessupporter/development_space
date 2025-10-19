@@ -112,7 +112,7 @@ karbytes2025_22: // folder contains exactly 162 files (approximately 19202.58 me
 
     - zip_file_33: KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - zip_file_34: KARBYTES_FOR_LIFE_BLOG-main_31december2025.zip // 754.2 kilobytes
+    - zip_file_34: KARBYTES_FOR_LIFE_BLOG-main_31december2025.zip // 754.5 kilobytes
 
     - zip_file_35: KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
@@ -324,7 +324,7 @@ karbytes2025_22: // folder contains exactly 162 files (approximately 19202.58 me
 
     - zip_file_139: KARLINA_OBJECT_extension_pack_48-main.zip // 264.2 megabytes
 
-    - zip_file_140: KARLINA_OBJECT_extension_pack_49-main_18october2025.zip // 133.8 megabytes
+    - zip_file_140: KARLINA_OBJECT_extension_pack_49-main_19october2025.zip // 133.8 megabytes
 
     - zip_file_141: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
