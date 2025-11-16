@@ -6,9 +6,13 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 31_DECEMBER_2025 (and that specific file collection is named karbytes2025_22). 
+The following list of M_DISC contents encompasses the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 31_DECEMBER_2025 (and the part of that collection which is mainly featured on this web page is named karbytes2025_22). 
 
-Important Note: The first of indefinitely many 25-gigabyte M_DISCs containing the entirety of karbytes in as few of those discs as possible is considered to be the complete karbytes set. The subset of karbytes named karbytes2025_22 only encompasses the first of those discs (and that disc is named karbytes_origins). The next disc after that is named karbytes_nexus and encompasses karbytes' whole genome and karbytes2026_0 and other post-2025 karbytes content).
+As of 31_DECEMBER_2025 on 11:59PM Pacific Standard Time, karbytes2025_22 is officially determined to be in its finalized state (i.e. closed to further modifications).
+
+As of 31_DECEMBER_2025 on 11:59PM Pacific Standard Time, the first four micro-directories of karbytes2026_0 (which are enumerated closest to the bottom of the following list of micro-directories) are also officially determined to be in their finalized states.
+
+Important Note: Indefinitely many 25-gigabyte M_DISCs contain the entirety of the web-hosted file collection named karbytes. The subset of karbytes named karbytes2025_22 only encompasses the first of those discs (and that disc is named karbytes_origins). The next disc after that is named karbytes_nexus and encompasses karbytes' whole genome and karbytes2026_0 and other post-2025 karbytes content).
 
 Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2025_22.
 
