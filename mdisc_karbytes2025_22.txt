@@ -1,20 +1,22 @@
 /**
  * file: mdisc_karbytes2025_22.txt
  * type: plain-text
- * date: 14_NOVEMBER_2025
+ * date: 15_NOVEMBER_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
 The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 31_DECEMBER_2025 (and that specific file collection is named karbytes2025_22). 
 
+Important Note: The first of indefinitely many 25-gigabyte M_DISCs containing the entirety of karbytes in as few of those discs as possible is considered to be the complete karbytes set. The subset of karbytes named karbytes2025_22 only encompasses the first of those discs (and that disc is named karbytes_origins). The next disc after that is named karbytes_nexus and encompasses karbytes' whole genome and karbytes2026_0 and other post-2025 karbytes content).
+
 Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2025_22.
 
-That entire aforementioned file collection named karbytes2025_22 is too large to fit on one 4.7 gigabyte M_DISC but small enough to fit on one 25 gigabyte M_DISC.
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2026_0.
 
 * * *
   
-The total number of megabytes in the folder named karbytes2025_22 (which contains exclusively 162 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
+The total number of megabytes in the folder named karbytes2025_22 (which contains exclusively 163 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
 
 https://karbytesforlifeblog.wordpress.com/print_folder_contents
 
@@ -34,15 +36,15 @@ Finally, each zip file which is referenced on this web page has a file name with
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-M_DISC 1 of 1 (disc contains exactly one folder named karbytes2025_22)
+M_DISC 1 of 2 (disc contains exactly one folder named karbytes2025_22)
 
-M_DISC 1 of 1 data collection name: karbytes2025_22
+M_DISC 1 of 2 data collection name: karbytes2025_22
 
-M_DISC 1 of 1 data collection size: approximately 21 gigabytes
+M_DISC 1 of 2 data collection size: approximately 21 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_22: // folder contains exactly 162 files (approximately 19360.56 megabytes total).
+karbytes2025_22: // folder contains exactly 163 files (approximately 19409.20 megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
@@ -367,6 +369,26 @@ karbytes2025_22: // folder contains exactly 162 files (approximately 19360.56 me
     - zip_file_160: the_big_green_thing_2025.zip // 936.7 megabytes
 
     - zip_file_161: reference_human_genome_fasta_hg38.zip // 982.9 megabytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+M_DISC 2 of 2 (disc contains exactly one folder named first_2026_github_repositories)
+
+M_DISC 2 of 2 data collection name: karbytes2025_26
+
+M_DISC 2 of 2 data collection size: approximately 16 gigabytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes2026_0: // folder contains exactly 4 files (approximately 14989.99 megabytes total).
+
+    - zip_file_0: karbytes_human_genome_fasta_part_0-main.zip // 5.2 gigabytes
+
+    - zip_file_1: karbytes_human_genome_fasta_part_1-main.zip // 4.8 gigabytes
+
+    - zip_file_2: karbytes_human_genome_fasta_part_2-main.zip // 3.7 gigabytes
+
+    - zip_file_3: karbytes_human_genome_fasta_part_3-main.zip // 2.1 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
